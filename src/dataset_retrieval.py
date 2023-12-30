@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 import pandas as pd
-import youtube_dl
+from yt_dlp import YoutubeDL
 import ffmpeg
 
 
@@ -10,6 +10,7 @@ def search_song_from_youtube(query, song_length, dataset, filename):
     ydl_opts = {
         "outtmpl": f"/dataset/{dataset}/{filename}.%(ext)s",
         "noplaylist": True,
+        "ignoreerrors": True,
         "format": "bestaudio/best",
         "postprocessors": [
             {
@@ -19,7 +20,7 @@ def search_song_from_youtube(query, song_length, dataset, filename):
             }
         ],
     }
-    with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+    with YoutubeDL(ydl_opts) as ydl:
         videos = ydl.extract_info(f"ytsearch:{query}", download=False)[
             "entries"
         ]
@@ -35,21 +36,19 @@ def get_song_from_youtube(url, dataset, filename, start_time=0):
     ydl_opts = {
         "outtmpl": f"/dataset/{dataset}/{filename}.%(ext)s",
         "noplaylist": True,
-        "format": "bestaudio/best",
+        "ignoreerrors": True,
+        "format": "wav/bestaudio/best",
         "postprocessors": [
-            {
-                "key": "FFmpegExtractAudio",
-                "preferredcodec": "wav",
-                "preferredquality": "192",
-            }
+            {"key": "FFmpegExtractAudio", "preferredcodec": "wav"}
         ],
     }
-    with youtube_dl.YoutubeDL(ydl_opts) as ydl:
-        ydl.download([url])
+    with YoutubeDL(ydl_opts) as ydl:
+        ret = ydl.download([url])
 
-    ffmpeg.input(f"/dataset/{dataset}/{filename}.wav", ss=start_time).output(
-        f"/dataset/{dataset}/{filename}.wav"
-    ).run()
+    if ret != 1:
+        ffmpeg.input(
+            f"/dataset/{dataset}/{filename}.wav", ss=start_time
+        ).output(f"/dataset/{dataset}/{filename}.wav").run()
 
 
 def get_shs100k():
@@ -70,7 +69,7 @@ def get_shs100k():
 
     for _, row in train_list.iterrows():
         covers = song_list[
-            song_list["set_id"] == row["set_id"] and song_list["status"]
+            (song_list["set_id"] == row["set_id"]) & song_list["status"]
         ]
         for i, song in covers.iterrows():
             if i == 0:
@@ -86,7 +85,7 @@ def get_shs100k():
 
     for _, row in val_list.iterrows():
         covers = song_list[
-            song_list["set_id"] == row["set_id"] and song_list["status"]
+            (song_list["set_id"] == row["set_id"]) & song_list["status"]
         ]
         for i, song in covers.iterrows():
             if i == 0:
@@ -100,7 +99,7 @@ def get_shs100k():
 
     for _, row in test_list.iterrows():
         covers = song_list[
-            song_list["set_id"] == row["set_id"] and song_list["status"]
+            (song_list["set_id"] == row["set_id"]) & song_list["status"]
         ]
         for i, song in covers.iterrows():
             if i == 0:
