@@ -45,78 +45,16 @@ def get_song_from_youtube(url, dataset, filename, start_time=0):
     with YoutubeDL(ydl_opts) as ydl:
         ret = ydl.download([url])
 
-    if ret != 1:
-        ffmpeg.input(
-            f"/dataset/{dataset}/{filename}.wav", ss=start_time
-        ).output(f"/dataset/{dataset}/{filename}.wav").run()
-
-
-def get_shs100k():
-    song_list = pd.read_csv(
-        "dataset/SHS100K/list",
-        sep="\t",
-        names=["set_id", "ver_id", "title", "performer", "url", "status"],
-    )
-    train_list = pd.read_csv(
-        "dataset/SHS100K/SHS100K-TRAIN", sep="\t", names=["set_id", "ver_id"]
-    )
-    val_list = pd.read_csv(
-        "dataset/SHS100K/SHS100K-VAL", sep="\t", names=["set_id", "ver_id"]
-    )
-    test_list = pd.read_csv(
-        "dataset/SHS100K/SHS100K-TEST", sep="\t", names=["set_id", "ver_id"]
-    )
-
-    for _, row in train_list.iterrows():
-        covers = song_list[
-            (song_list["set_id"] == row["set_id"]) & song_list["status"]
-        ]
-        for i, song in covers.iterrows():
-            if i == 0:
-                Path(f"/dataset/SHS100K/train/{song['title']}").mkdir(
-                    parents=True, exist_ok=True
-                )
-
-            get_song_from_youtube(
-                song["url"],
-                f"SHS100K/train/{song['title']}",
-                song["performer"],
-            )
-
-    for _, row in val_list.iterrows():
-        covers = song_list[
-            (song_list["set_id"] == row["set_id"]) & song_list["status"]
-        ]
-        for i, song in covers.iterrows():
-            if i == 0:
-                Path(f"/dataset/SHS100K/val/{song['title']}").mkdir(
-                    parents=True, exist_ok=True
-                )
-
-            get_song_from_youtube(
-                song["url"], f"SHS100K/val/{song['title']}", song["performer"]
-            )
-
-    for _, row in test_list.iterrows():
-        covers = song_list[
-            (song_list["set_id"] == row["set_id"]) & song_list["status"]
-        ]
-        for i, song in covers.iterrows():
-            if i == 0:
-                Path(f"/dataset/SHS100K/test/{song['title']}").mkdir(
-                    parents=True, exist_ok=True
-                )
-
-            get_song_from_youtube(
-                song["url"], f"SHS100K/test/{song['title']}", song["performer"]
-            )
+    if ret != 1 and start_time != 0:
+        file_path = str(Path(f"/dataset/{dataset}/{filename}.wav").absolute())
+        ffmpeg.input(file_path, ss=start_time).output(file_path).run()
 
 
 def get_mazurkas():
     data = pd.read_csv(
         "dataset/Mazurkas/mazurka-discography.txt", sep="\t", header=0
     )
-    for _, row in data.iterrows():
+    for i, row in data.iterrows():
         piece_name = f"Chopin: Mazurkas, Op. {row['opus']} in {row['key']}"
         Path(f"/dataset/Mazurkas/{piece_name}").mkdir(
             parents=False, exist_ok=True
@@ -124,12 +62,15 @@ def get_mazurkas():
 
         query = f"Chopin Mazurka Op. {row['opus']} in {row['key']} {row['performer']}"
         search_song_from_youtube(
-            query, row["seconds"], "Mazurkas", row["performer"]
+            query,
+            row["seconds"],
+            "Mazurkas",
+            row["performer"],
         )
 
 
 def get_covers80():
-    for folder in Path("/dataset/Covers80").iterdir():
+    for folder in Path("/dataset/Covers80/").iterdir():
         if folder.is_dir():
             folder.rename(Path(folder.name.replace("_", " ")))
             for song in folder.iterdir():
@@ -154,7 +95,7 @@ def get_rondodb100():
                 )
 
 
-get_shs100k()
-get_covers80()
+# get_shs100k()
 get_mazurkas()
 get_rondodb100()
+get_covers80()
