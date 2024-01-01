@@ -1,0 +1,4336 @@
+[
+  {
+    "catalogue_number": "Op. 67",
+    "composer": {
+      "birth_date": "1770-12-17",
+      "death_date": "1827-03-26",
+      "name": "Ludwig Van Beethoven",
+      "rdb_id_people": 13
+    },
+    "composition_year": 1808,
+    "name": "Symphony",
+    "number": "5",
+    "piece_full_name": "Symphony No.5 in C minor, Op. 67",
+    "piece_full_name_with_composer": "Ludwig Van Beethoven: Symphony No.5 in C minor, Op. 67",
+    "rdb_id_piece": 82,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=0RUhgsuDDe8"
+      },
+      {
+        "is_live": true,
+        "start_at": 57.455,
+        "url": "https://www.youtube.com/watch?v=-VVXqNt4qU0"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=0Y9lJZ9GgLs"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=1fnq4u1YL2g"
+      },
+      {
+        "is_live": true,
+        "start_at": 27.609,
+        "url": "https://www.youtube.com/watch?v=1lHOYvIhLxo"
+      }
+    ],
+    "tonality": "C Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Symphony_No._5_(Beethoven)"
+  },
+  {
+    "catalogue_number": "Op. 125",
+    "composer": {
+      "birth_date": "1770-12-17",
+      "death_date": "1827-03-26",
+      "name": "Ludwig Van Beethoven",
+      "rdb_id_people": 13
+    },
+    "name": "Symphony",
+    "number": "9",
+    "piece_full_name": "Symphony No.9, Op. 125 \"The Ode to Joy\"",
+    "piece_full_name_with_composer": "Ludwig Van Beethoven: Symphony No.9, Op. 125 \"The Ode to Joy\"",
+    "rdb_id_piece": 87,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=ChtkaMrgi3E"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=d9f92FHS-eU"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=2utcDITa138"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=9oVT-WD1QcE"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=ivPkAjMfOEw"
+      }
+    ],
+    "sub_name": "The Ode to Joy"
+  },
+  {
+    "catalogue_number": "Op. 73",
+    "composer": {
+      "birth_date": "1770-12-17",
+      "death_date": "1827-03-26",
+      "name": "Ludwig Van Beethoven",
+      "rdb_id_people": 13
+    },
+    "composition_year": 1810,
+    "name": "Piano Concerto",
+    "number": "5",
+    "piece_full_name": "Piano Concerto No.5 in E-flat major, Op. 73 \"Emperor\"",
+    "piece_full_name_with_composer": "Ludwig Van Beethoven: Piano Concerto No.5 in E-flat major, Op. 73 \"Emperor\"",
+    "rdb_id_piece": 92,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=cuMf2xFaDWE"
+      },
+      {
+        "is_live": true,
+        "start_at": 28.688,
+        "url": "https://www.youtube.com/watch?v=3TiYGxOQDYw"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=aIiigwPmB1Y"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=KydGa2sUByk"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=J_QBtkRZZ9A"
+      }
+    ],
+    "sub_name": "Emperor",
+    "tonality": "E-flat Major"
+  },
+  {
+    "catalogue_number": "Op. 23",
+    "composer": {
+      "birth_date": "1810-03-01",
+      "death_date": "1849-10-17",
+      "name": "Fr\u00e9d\u00e9ric Chopin",
+      "rdb_id_people": 1
+    },
+    "name": "Ballade",
+    "number": "1",
+    "piece_full_name": "Ballade No.1 in G minor, Op. 23",
+    "piece_full_name_with_composer": "Fr\u00e9d\u00e9ric Chopin: Ballade No.1 in G minor, Op. 23",
+    "rdb_id_piece": 114,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 2.005,
+        "url": "https://www.youtube.com/watch?v=Ce8p0VcTbuA"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=eG1Olvh7vCU"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=ErfU1kCOCHA"
+      },
+      {
+        "is_live": false,
+        "start_at": 10.044,
+        "url": "https://www.youtube.com/watch?v=Q6Ko1gI9LcA"
+      },
+      {
+        "is_live": true,
+        "start_at": 4.781,
+        "url": "https://www.youtube.com/watch?v=2uvAewYkEFU"
+      }
+    ],
+    "tonality": "G Minor"
+  },
+  {
+    "catalogue_number": "Op. 9",
+    "composer": {
+      "birth_date": "1810-03-01",
+      "death_date": "1849-10-17",
+      "name": "Fr\u00e9d\u00e9ric Chopin",
+      "rdb_id_people": 1
+    },
+    "name": "Nocturne",
+    "number": "1",
+    "piece_full_name": "Nocturne No.1 in B-flat minor, Op. 9",
+    "piece_full_name_with_composer": "Fr\u00e9d\u00e9ric Chopin: Nocturne No.1 in B-flat minor, Op. 9",
+    "rdb_id_piece": 120,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=ZtIW2r1EalM"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Nb3vj9zTHX0"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=gfgVWyjHkCo"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=aBqhH_96Evs"
+      },
+      {
+        "is_live": true,
+        "start_at": 8.251,
+        "url": "https://www.youtube.com/watch?v=mPgYta-wBmw"
+      }
+    ],
+    "tonality": "B-flat Minor"
+  },
+  {
+    "composer": {
+      "birth_date": "1683-09-25",
+      "death_date": "1764-09-12",
+      "name": "Jean-Philippe Rameau",
+      "rdb_id_people": 41
+    },
+    "movement_full_name": "6. Les sauvages",
+    "name": "Suite en sol",
+    "piece_full_name": "Suite en sol in G major \"Nouvelle suite\" - 6. Les sauvages",
+    "piece_full_name_with_composer": "Jean-Philippe Rameau: Suite en sol in G major \"Nouvelle suite\" - 6. Les sauvages",
+    "rdb_id_movement": 272,
+    "rdb_id_piece": 328,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=kPZBrkSgiIo"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.0,
+        "url": "https://www.youtube.com/watch?v=ShpQD4de-EI"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=BW9z5Dk0Jro"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=95G1r9sLrq0"
+      },
+      {
+        "is_live": true,
+        "start_at": 12.879,
+        "url": "https://www.youtube.com/watch?v=7OYHrCLsKR8"
+      }
+    ],
+    "sub_name": "Nouvelle suite",
+    "tonality": "G Major"
+  },
+  {
+    "catalogue_number": "Op. 31",
+    "composer": {
+      "birth_date": "1810-03-01",
+      "death_date": "1849-10-17",
+      "name": "Fr\u00e9d\u00e9ric Chopin",
+      "rdb_id_people": 1
+    },
+    "name": "Scherzo",
+    "number": "2",
+    "piece_full_name": "Scherzo No.2 in B-flat minor, Op. 31",
+    "piece_full_name_with_composer": "Fr\u00e9d\u00e9ric Chopin: Scherzo No.2 in B-flat minor, Op. 31",
+    "rdb_id_piece": 407,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=z_MwPdr7WXQ"
+      },
+      {
+        "is_live": true,
+        "start_at": 8.483,
+        "url": "https://www.youtube.com/watch?v=n27td0Y1ov0"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=8rS0qmP_6Lk"
+      },
+      {
+        "is_live": false,
+        "start_at": 7.36,
+        "url": "https://www.youtube.com/watch?v=syt6XR6qlAE"
+      },
+      {
+        "is_live": true,
+        "start_at": 3.316,
+        "url": "https://www.youtube.com/watch?v=CZiixxyN7tE"
+      }
+    ],
+    "tonality": "B-flat Minor"
+  },
+  {
+    "catalogue_number": "Op. 21",
+    "composer": {
+      "birth_date": "1810-03-01",
+      "death_date": "1849-10-17",
+      "name": "Fr\u00e9d\u00e9ric Chopin",
+      "rdb_id_people": 1
+    },
+    "name": "Piano concerto",
+    "number": "2",
+    "piece_full_name": "Piano concerto No.2 in F minor, Op. 21",
+    "piece_full_name_with_composer": "Fr\u00e9d\u00e9ric Chopin: Piano concerto No.2 in F minor, Op. 21",
+    "rdb_id_piece": 410,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Fqq2kFyXupo"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=cb9g2_b4yG8"
+      },
+      {
+        "is_live": true,
+        "start_at": 49.82,
+        "url": "https://www.youtube.com/watch?v=nJMCK8PB25o"
+      },
+      {
+        "is_live": true,
+        "start_at": 3.856,
+        "url": "https://www.youtube.com/watch?v=B3r4EgwLqMM"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.539,
+        "url": "https://www.youtube.com/watch?v=s7V3ovkDt0U"
+      }
+    ],
+    "tonality": "F Minor"
+  },
+  {
+    "catalogue_number": "KV 310",
+    "composer": {
+      "birth_date": "1756-01-27",
+      "death_date": "1791-12-05",
+      "name": "Wolfgang Amadeus Mozart",
+      "rdb_id_people": 525
+    },
+    "composition_year": 1778,
+    "name": "Piano Sonata",
+    "number": "8",
+    "piece_full_name": "Piano Sonata No.8 in A minor, KV 310",
+    "piece_full_name_with_composer": "Wolfgang Amadeus Mozart: Piano Sonata No.8 in A minor, KV 310",
+    "rdb_id_piece": 418,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 11.953,
+        "url": "https://www.youtube.com/watch?v=bZZqSZqJz4Y"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=fRgxY8VUOz8"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=ZKs1WpMJ0X8"
+      },
+      {
+        "is_live": true,
+        "start_at": 2.622,
+        "url": "https://www.youtube.com/watch?v=VQkD3qrT8A0"
+      },
+      {
+        "is_live": true,
+        "start_at": 25.218,
+        "url": "https://www.youtube.com/watch?v=sSFwJip6hxg"
+      }
+    ],
+    "tonality": "A Minor"
+  },
+  {
+    "catalogue_number": "KV 550",
+    "composer": {
+      "birth_date": "1756-01-27",
+      "death_date": "1791-12-05",
+      "name": "Wolfgang Amadeus Mozart",
+      "rdb_id_people": 525
+    },
+    "composition_year": 1788,
+    "name": "Symphony",
+    "number": "40",
+    "piece_full_name": "Symphony No.40 in G minor, KV 550 \"Great G minor symphony\"",
+    "piece_full_name_with_composer": "Wolfgang Amadeus Mozart: Symphony No.40 in G minor, KV 550 \"Great G minor symphony\"",
+    "rdb_id_piece": 481,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=JTc1mDieQI8"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=RiESu1LNosE"
+      },
+      {
+        "is_live": true,
+        "start_at": 28.843,
+        "url": "https://www.youtube.com/watch?v=wqkXqpQMk2k"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=BfcXoB9y4rc"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=KTl_GnlLH4U"
+      }
+    ],
+    "sub_name": "Great G minor symphony",
+    "tonality": "G Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Symphony_No._40_(Mozart)"
+  },
+  {
+    "catalogue_number": "KV 488",
+    "composer": {
+      "birth_date": "1756-01-27",
+      "death_date": "1791-12-05",
+      "name": "Wolfgang Amadeus Mozart",
+      "rdb_id_people": 525
+    },
+    "composition_year": 1786,
+    "name": "Piano Concerto",
+    "number": "23",
+    "piece_full_name": "Piano Concerto No.23 in A major, KV 488",
+    "piece_full_name_with_composer": "Wolfgang Amadeus Mozart: Piano Concerto No.23 in A major, KV 488",
+    "rdb_id_piece": 527,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=BMYjGkgzinU"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.465,
+        "url": "https://www.youtube.com/watch?v=DXeBFhqViYg"
+      },
+      {
+        "is_live": true,
+        "start_at": 24.061,
+        "url": "https://www.youtube.com/watch?v=Ww4VWktdjyU"
+      },
+      {
+        "is_live": true,
+        "start_at": 47.892,
+        "url": "https://www.youtube.com/watch?v=-s68kHOnpiE"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=11TWlVER7ng"
+      }
+    ],
+    "tonality": "A Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Piano_Concerto_No._23_(Mozart)"
+  },
+  {
+    "catalogue_number": "Op. 18",
+    "composer": {
+      "birth_date": "1810-03-01",
+      "death_date": "1849-10-17",
+      "name": "Fr\u00e9d\u00e9ric Chopin",
+      "rdb_id_people": 1
+    },
+    "composition_year": 1832,
+    "name": "Waltz",
+    "number": "1",
+    "piece_full_name": "Waltz No.1 in E-flat major, Op. 18 \"Grande Valse\"",
+    "piece_full_name_with_composer": "Fr\u00e9d\u00e9ric Chopin: Waltz No.1 in E-flat major, Op. 18 \"Grande Valse\"",
+    "rdb_id_piece": 581,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=WJnyEVG7DSI"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.308,
+        "url": "https://www.youtube.com/watch?v=LG-E4PVGQSI"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=myvxDDjPBc4"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.465,
+        "url": "https://www.youtube.com/watch?v=YXbUtdCPaig"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.308,
+        "url": "https://www.youtube.com/watch?v=qmfMOk71L50"
+      }
+    ],
+    "sub_name": "Grande Valse",
+    "tonality": "E-flat Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Grande_valse_brillante_in_E_flat_major_(Chopin)"
+  },
+  {
+    "catalogue_number": "Op. 64/2",
+    "composer": {
+      "birth_date": "1810-03-01",
+      "death_date": "1849-10-17",
+      "name": "Fr\u00e9d\u00e9ric Chopin",
+      "rdb_id_people": 1
+    },
+    "composition_year": 1847,
+    "name": "Waltz",
+    "number": "7",
+    "piece_full_name": "Waltz No.7 in C-sharp minor, Op. 64/2",
+    "piece_full_name_with_composer": "Fr\u00e9d\u00e9ric Chopin: Waltz No.7 in C-sharp minor, Op. 64/2",
+    "rdb_id_piece": 587,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=aNIs139af-4"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=BLqNBs2AJeo"
+      },
+      {
+        "is_live": true,
+        "start_at": 5.784,
+        "url": "https://www.youtube.com/watch?v=_d3tMxKiaZg"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=KjxYdVpChjU"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.462,
+        "url": "https://www.youtube.com/watch?v=wTSu1jjKpgI"
+      }
+    ],
+    "tonality": "C-sharp Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Waltz_in_C-sharp_minor,_Op._64,_No._2_(Chopin)"
+  },
+  {
+    "catalogue_number": "Op. 60",
+    "composer": {
+      "birth_date": "1906-09-25",
+      "death_date": "1975-08-09",
+      "name": "Dmitri Shostakovitch",
+      "rdb_id_people": 395
+    },
+    "composition_year": 1941,
+    "name": "Symphony",
+    "number": "7",
+    "piece_full_name": "Symphony No.7 in C major, Op. 60 \"Leningrad\"",
+    "piece_full_name_with_composer": "Dmitri Shostakovitch: Symphony No.7 in C major, Op. 60 \"Leningrad\"",
+    "rdb_id_piece": 688,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=T5EaRTBtZTw"
+      },
+      {
+        "is_live": true,
+        "start_at": 27.994,
+        "url": "https://www.youtube.com/watch?v=Xbru9UcCLQQ"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=DMcf8K_RJPU"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=EE_PasPqP-A"
+      },
+      {
+        "is_live": true,
+        "start_at": 21.131,
+        "url": "https://www.youtube.com/watch?v=DQJcFMHLXek"
+      }
+    ],
+    "sub_name": "Leningrad",
+    "tonality": "C Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Symphony_No._7_(Shostakovich)"
+  },
+  {
+    "catalogue_number": "BWV 1050",
+    "composer": {
+      "birth_date": "1685-03-21",
+      "death_date": "1750-07-28",
+      "name": "Johann Sebastian Bach",
+      "rdb_id_people": 25
+    },
+    "composition_year": 1721,
+    "name": "Brandenburg Concerto",
+    "number": "5",
+    "piece_full_name": "Brandenburg Concerto No.5 in D major, BWV 1050",
+    "piece_full_name_with_composer": "Johann Sebastian Bach: Brandenburg Concerto No.5 in D major, BWV 1050",
+    "rdb_id_piece": 715,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 16.349,
+        "url": "https://www.youtube.com/watch?v=_V7oujd9djk"
+      },
+      {
+        "is_live": true,
+        "start_at": 7.789,
+        "url": "https://www.youtube.com/watch?v=LHjbRMIIhuM"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=D1xaagpUGs4"
+      },
+      {
+        "is_live": true,
+        "start_at": 4.164,
+        "url": "https://www.youtube.com/watch?v=rnAcRm7IL74"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.773,
+        "url": "https://www.youtube.com/watch?v=ymFeoV7qcKY"
+      }
+    ],
+    "tonality": "D Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brandenburg_concertos"
+  },
+  {
+    "catalogue_number": "Op. 18",
+    "composer": {
+      "birth_date": "1873-04-01",
+      "death_date": "1943-03-28",
+      "name": "Sergei Rachmaninov",
+      "rdb_id_people": 4
+    },
+    "composition_year": 1901,
+    "name": "Piano Concerto",
+    "number": "2",
+    "piece_full_name": "Piano Concerto No.2 in C minor, Op. 18",
+    "piece_full_name_with_composer": "Sergei Rachmaninov: Piano Concerto No.2 in C minor, Op. 18",
+    "rdb_id_piece": 719,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=yJpJ8REjvqo"
+      },
+      {
+        "is_live": true,
+        "start_at": 41.413,
+        "url": "https://www.youtube.com/watch?v=Ly1LSX_8wsM"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=R7mGtmVe1NM"
+      },
+      {
+        "is_live": true,
+        "start_at": 3.007,
+        "url": "https://www.youtube.com/watch?v=LQanRa1lUSQ"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=u9QLiefnoDE"
+      }
+    ],
+    "tonality": "C Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Piano_Concerto_No._2_(Rachmaninoff)"
+  },
+  {
+    "catalogue_number": "KV 622",
+    "composer": {
+      "birth_date": "1756-01-27",
+      "death_date": "1791-12-05",
+      "name": "Wolfgang Amadeus Mozart",
+      "rdb_id_people": 525
+    },
+    "composition_year": 1791,
+    "name": "Clarinet Concerto",
+    "piece_full_name": "Clarinet Concerto in A major, KV 622",
+    "piece_full_name_with_composer": "Wolfgang Amadeus Mozart: Clarinet Concerto in A major, KV 622",
+    "rdb_id_piece": 730,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=2oNnugi3yLU"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=l3EJqvKhYzY"
+      },
+      {
+        "is_live": true,
+        "start_at": 29.071,
+        "url": "https://www.youtube.com/watch?v=YT_63UntRJE"
+      },
+      {
+        "is_live": true,
+        "start_at": 4.164,
+        "url": "https://www.youtube.com/watch?v=_0mIhjhUnjQ"
+      },
+      {
+        "is_live": true,
+        "start_at": 24.138,
+        "url": "https://www.youtube.com/watch?v=XXNCOEwHdLI"
+      }
+    ],
+    "tonality": "A Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Clarinet_Concerto_(Mozart)"
+  },
+  {
+    "catalogue_number": "BWV 1004",
+    "composer": {
+      "birth_date": "1685-03-21",
+      "death_date": "1750-07-28",
+      "name": "Johann Sebastian Bach",
+      "rdb_id_people": 25
+    },
+    "composition_year": 1720,
+    "name": "Violin Partita",
+    "number": "2",
+    "piece_full_name": "Violin Partita No.2 in D minor, BWV 1004",
+    "piece_full_name_with_composer": "Johann Sebastian Bach: Violin Partita No.2 in D minor, BWV 1004",
+    "rdb_id_piece": 734,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=YhCoV8SP97Q"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=fT1QUX0iVIY"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=lpe7thXd69E"
+      },
+      {
+        "is_live": true,
+        "start_at": 7.48,
+        "url": "https://www.youtube.com/watch?v=pnK6R5ej6Hg"
+      },
+      {
+        "is_live": true,
+        "start_at": 52.172,
+        "url": "https://www.youtube.com/watch?v=2lRyPzTufm0"
+      }
+    ],
+    "tonality": "D Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sonatas_and_partitas_for_solo_violin_(Bach)"
+  },
+  {
+    "catalogue_number": "RV 315",
+    "composer": {
+      "birth_date": "1678-03-04",
+      "death_date": "1741-07-28",
+      "name": "Antonio Vivaldi",
+      "rdb_id_people": 51
+    },
+    "composition_year": 1723,
+    "name": "Four Seasons: Summer",
+    "name_original_language": "Le quattro stagioni: L'estate",
+    "piece_full_name": "Four Seasons: Summer in G minor, RV 315 \"Violin Concerto n\u00b0 2 in: \"Il cimento dell'armonia e dell'invenzione\"\"",
+    "piece_full_name_with_composer": "Antonio Vivaldi: Four Seasons: Summer in G minor, RV 315 \"Violin Concerto n\u00b0 2 in: \"Il cimento dell'armonia e dell'invenzione\"\"",
+    "rdb_id_piece": 782,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=QeOKdgSjod8"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=rfnn5EPgB54"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=oxvkoKvuYL0"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=UmnSqrVZDhw"
+      },
+      {
+        "is_live": true,
+        "start_at": 10.691,
+        "url": "https://www.youtube.com/watch?v=g65oWFMSoK0"
+      }
+    ],
+    "sub_name": "Violin Concerto n\u00b0 2 in: \"Il cimento dell'armonia e dell'invenzione\"",
+    "tonality": "G Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi)"
+  },
+  {
+    "catalogue_number": "Op. 98",
+    "composer": {
+      "birth_date": "1833-05-07",
+      "death_date": "1897-04-03",
+      "name": "Johannes Brahms",
+      "rdb_id_people": 18
+    },
+    "composition_year": 1885,
+    "name": "Symphony",
+    "number": "4",
+    "piece_full_name": "Symphony No.4 in E minor, Op. 98",
+    "piece_full_name_with_composer": "Johannes Brahms: Symphony No.4 in E minor, Op. 98",
+    "rdb_id_piece": 803,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 3.239,
+        "url": "https://www.youtube.com/watch?v=7QLuYj2jxoc"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=PTj_Plr3U3k"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=ckuUq7im8H4"
+      },
+      {
+        "is_live": false,
+        "start_at": 6.999,
+        "url": "https://www.youtube.com/watch?v=j7TdHQ5Ckg8"
+      },
+      {
+        "is_live": true,
+        "start_at": 40.874,
+        "url": "https://www.youtube.com/watch?v=48DGzxOgCKU"
+      }
+    ],
+    "tonality": "E Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Symphony_No._4_%28Brahms%29"
+  },
+  {
+    "catalogue_number": "WoO 1",
+    "composer": {
+      "birth_date": "1833-05-07",
+      "death_date": "1897-04-03",
+      "name": "Johannes Brahms",
+      "rdb_id_people": 18
+    },
+    "name": "Hungarian Dances",
+    "name_original_language": "Ungarische T\u00e4nze",
+    "piece_full_name": "Hungarian Dances, WoO 1",
+    "piece_full_name_with_composer": "Johannes Brahms: Hungarian Dances, WoO 1",
+    "rdb_id_piece": 804,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=lgH24cAvEKc"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=hP7ul0jUP50"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=UA-qAPjZt7M"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=R8GAQFJu6CA"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=IECFYFsbJwk"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hungarian_Dances_%28Brahms%29"
+  },
+  {
+    "catalogue_number": "Op. 40",
+    "composer": {
+      "birth_date": "1835-10-09",
+      "death_date": "1921-12-16",
+      "name": "Camille Saint-Sa\u00ebns",
+      "rdb_id_people": 5
+    },
+    "composition_year": 1874,
+    "name": "Danse macabre",
+    "piece_full_name": "Danse macabre in G minor, Op. 40",
+    "piece_full_name_with_composer": "Camille Saint-Sa\u00ebns: Danse macabre in G minor, Op. 40",
+    "rdb_id_piece": 842,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=YyknBTm_YyM"
+      },
+      {
+        "is_live": true,
+        "start_at": 4.704,
+        "url": "https://www.youtube.com/watch?v=71fZhMXlGT4"
+      },
+      {
+        "is_live": true,
+        "start_at": 24.755,
+        "url": "https://www.youtube.com/watch?v=k5nT9njLnso"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.465,
+        "url": "https://www.youtube.com/watch?v=30wTGd_zkx4"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=M7TuSl-XXa4"
+      }
+    ],
+    "tonality": "G Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Danse_macabre_%28Saint-Sa%C3%ABns%29"
+  },
+  {
+    "composer": {
+      "birth_date": "1867-07-27",
+      "death_date": "1916-03-24",
+      "name": "Enrique Granados",
+      "rdb_id_people": 50
+    },
+    "composition_year": 1890,
+    "movement_full_name": "5. Andaluza",
+    "name": "12 danzas espa\u00f1olas",
+    "piece_full_name": "12 danzas espa\u00f1olas - 5. Andaluza",
+    "piece_full_name_with_composer": "Enrique Granados: 12 danzas espa\u00f1olas - 5. Andaluza",
+    "rdb_id_movement": 1715,
+    "rdb_id_piece": 865,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 3.084,
+        "url": "https://www.youtube.com/watch?v=3NhJ7s5tc-o"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.694,
+        "url": "https://www.youtube.com/watch?v=wd3uKNtQJH0"
+      },
+      {
+        "is_live": true,
+        "start_at": 6.401,
+        "url": "https://www.youtube.com/watch?v=mPNfDbYBCcY"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=FM6vdhv4ZoI"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.308,
+        "url": "https://www.youtube.com/watch?v=QXpkA1clO40"
+      }
+    ]
+  },
+  {
+    "catalogue_number": "W 247",
+    "composer": {
+      "birth_date": "1887-03-05",
+      "death_date": "1959-11-17",
+      "name": "Heitor Villa-Lobos",
+      "rdb_id_people": 403
+    },
+    "composition_year": 1930,
+    "name": "Bachianas brasileiras",
+    "number": "2",
+    "piece_full_name": "Bachianas brasileiras No.2, W 247",
+    "piece_full_name_with_composer": "Heitor Villa-Lobos: Bachianas brasileiras No.2, W 247",
+    "rdb_id_piece": 872,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=LaNoiKuJFQg"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=xLX7SCUbjV8"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=B5kzuFzx718"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.619,
+        "url": "https://www.youtube.com/watch?v=ct5sAcPdXSo"
+      },
+      {
+        "is_live": true,
+        "start_at": 9.023,
+        "url": "https://www.youtube.com/watch?v=tJzhSdxl2nI"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bachianas_Brasileiras#Bachianas_Brasileiras_No._2"
+  },
+  {
+    "catalogue_number": "Op. 27",
+    "composer": {
+      "birth_date": "1770-12-17",
+      "death_date": "1827-03-26",
+      "name": "Ludwig Van Beethoven",
+      "rdb_id_people": 13
+    },
+    "composition_year": 1800,
+    "name": "Piano Sonata",
+    "number": "13",
+    "piece_full_name": "Piano Sonata No.13 in E-flat major, Op. 27 \"Quasi una fantasia\"",
+    "piece_full_name_with_composer": "Ludwig Van Beethoven: Piano Sonata No.13 in E-flat major, Op. 27 \"Quasi una fantasia\"",
+    "rdb_id_piece": 973,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 26.606,
+        "url": "https://www.youtube.com/watch?v=SWpPIg_KaBo"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=IyIihEoeyW8"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.385,
+        "url": "https://www.youtube.com/watch?v=wi_kxIIjRGA"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=fVeRROs74Ig"
+      },
+      {
+        "is_live": true,
+        "start_at": 35.552,
+        "url": "https://www.youtube.com/watch?v=8obdWshfySI"
+      }
+    ],
+    "sub_name": "Quasi una fantasia",
+    "tonality": "E-flat Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Piano_Sonata_No._13_(Beethoven)"
+  },
+  {
+    "catalogue_number": "Op. 57",
+    "composer": {
+      "birth_date": "1770-12-17",
+      "death_date": "1827-03-26",
+      "name": "Ludwig Van Beethoven",
+      "rdb_id_people": 13
+    },
+    "composition_year": 1805,
+    "name": "Piano Sonata",
+    "number": "23",
+    "piece_full_name": "Piano Sonata No.23 in F minor, Op. 57 \"Appassionata\"",
+    "piece_full_name_with_composer": "Ludwig Van Beethoven: Piano Sonata No.23 in F minor, Op. 57 \"Appassionata\"",
+    "rdb_id_piece": 983,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 22.596,
+        "url": "https://www.youtube.com/watch?v=bpu3FOZkHd4"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=-_DIl_vmj0M"
+      },
+      {
+        "is_live": true,
+        "start_at": 30.616,
+        "url": "https://www.youtube.com/watch?v=G3lDaaC3K4E"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.0,
+        "url": "https://www.youtube.com/watch?v=KyG6gqbC5Is"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=_zqwqeciKEI"
+      }
+    ],
+    "sub_name": "Appassionata",
+    "tonality": "F Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Piano_Sonata_No._23_(Beethoven)"
+  },
+  {
+    "catalogue_number": "D 759",
+    "composer": {
+      "birth_date": "1797-01-31",
+      "death_date": "1828-11-19",
+      "name": "Franz Schubert",
+      "rdb_id_people": 43
+    },
+    "composition_year": 1822,
+    "name": "Symphony",
+    "number": "8",
+    "piece_full_name": "Symphony No.8 in B minor, D 759 \"Unfinished Symphony\"",
+    "piece_full_name_with_composer": "Franz Schubert: Symphony No.8 in B minor, D 759 \"Unfinished Symphony\"",
+    "rdb_id_piece": 994,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=HDrT8bpZ6_w"
+      },
+      {
+        "is_live": true,
+        "start_at": 5.938,
+        "url": "https://www.youtube.com/watch?v=TgZj4Vd3HHk"
+      },
+      {
+        "is_live": true,
+        "start_at": 93.818,
+        "url": "https://www.youtube.com/watch?v=8oVhhlBoTpQ"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=a47hIaYAFgg"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=n0q0yAunTXg"
+      }
+    ],
+    "sub_name": "Unfinished Symphony",
+    "tonality": "B Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Symphony_No._8_%28Schubert%29"
+  },
+  {
+    "catalogue_number": "Op. 129",
+    "composer": {
+      "birth_date": "1810-06-08",
+      "death_date": "1856-07-29",
+      "name": "Robert Schumann",
+      "rdb_id_people": 45
+    },
+    "composition_year": 1850,
+    "name": "Cello Concerto",
+    "piece_full_name": "Cello Concerto in A minor, Op. 129",
+    "piece_full_name_with_composer": "Robert Schumann: Cello Concerto in A minor, Op. 129",
+    "rdb_id_piece": 1001,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 3.007,
+        "url": "https://www.youtube.com/watch?v=cIZNsLs5L9g"
+      },
+      {
+        "is_live": true,
+        "start_at": 49.434,
+        "url": "https://www.youtube.com/watch?v=Fv7P8QKK7iQ"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=rT_izlPlwdk"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=utYtBqX_I1E"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=bVFn7Hvxxos"
+      }
+    ],
+    "tonality": "A Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cello_Concerto_%28Schumann%29"
+  },
+  {
+    "catalogue_number": "BWV 1041",
+    "composer": {
+      "birth_date": "1685-03-21",
+      "death_date": "1750-07-28",
+      "name": "Johann Sebastian Bach",
+      "rdb_id_people": 25
+    },
+    "composition_year": 1730,
+    "name": "Violin Concerto",
+    "number": "1",
+    "piece_full_name": "Violin Concerto No.1 in A minor, BWV 1041",
+    "piece_full_name_with_composer": "Johann Sebastian Bach: Violin Concerto No.1 in A minor, BWV 1041",
+    "rdb_id_piece": 1009,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=A4bUCMV2oCE"
+      },
+      {
+        "is_live": true,
+        "start_at": 61.311,
+        "url": "https://www.youtube.com/watch?v=vgCGxRk1EjA"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=EWcdbjsgQNQ"
+      },
+      {
+        "is_live": true,
+        "start_at": 7.634,
+        "url": "https://www.youtube.com/watch?v=HTr8KHDmMWw"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=CPz1DgoFfkI"
+      }
+    ],
+    "tonality": "A Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Violin_Concerto_in_A_minor_(Bach)"
+  },
+  {
+    "catalogue_number": "Op. 35",
+    "composer": {
+      "birth_date": "1840-05-07",
+      "death_date": "1893-11-06",
+      "name": "Pyotr Ilyich Tchaikovsky",
+      "rdb_id_people": 703
+    },
+    "composition_year": 1878,
+    "name": "Violin Concerto",
+    "piece_full_name": "Violin Concerto in D major, Op. 35",
+    "piece_full_name_with_composer": "Pyotr Ilyich Tchaikovsky: Violin Concerto in D major, Op. 35",
+    "rdb_id_piece": 1035,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 49.665,
+        "url": "https://www.youtube.com/watch?v=CTE08SS8fNk"
+      },
+      {
+        "is_live": true,
+        "start_at": 3.547,
+        "url": "https://www.youtube.com/watch?v=cbJZeNlrYKg"
+      },
+      {
+        "is_live": true,
+        "start_at": 43.727,
+        "url": "https://www.youtube.com/watch?v=L4OniPBQL2Q"
+      },
+      {
+        "is_live": true,
+        "start_at": 5.784,
+        "url": "https://www.youtube.com/watch?v=ovFPKu00cCc"
+      },
+      {
+        "is_live": true,
+        "start_at": 54.447,
+        "url": "https://www.youtube.com/watch?v=T61VRKL9KOA"
+      }
+    ],
+    "tonality": "D Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Violin_Concerto_(Tchaikovsky)"
+  },
+  {
+    "catalogue_number": "Op. 63",
+    "composer": {
+      "birth_date": "1810-06-08",
+      "death_date": "1856-07-29",
+      "name": "Robert Schumann",
+      "rdb_id_people": 45
+    },
+    "composition_year": 1847,
+    "name": "Piano Trio",
+    "number": "1",
+    "piece_full_name": "Piano Trio No.1 in D minor, Op. 63",
+    "piece_full_name_with_composer": "Robert Schumann: Piano Trio No.1 in D minor, Op. 63",
+    "rdb_id_piece": 1125,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=JkT_RBHeNkM"
+      },
+      {
+        "is_live": true,
+        "start_at": 11.722,
+        "url": "https://www.youtube.com/watch?v=dHRrADqmfoI"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=vUaw4eiK5mM"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=LnO_Vzp33HY"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=A2NShluR9F4"
+      }
+    ],
+    "tonality": "D Minor"
+  },
+  {
+    "catalogue_number": "Op. 35",
+    "composer": {
+      "birth_date": "1844-03-18",
+      "death_date": "1908-06-21",
+      "name": "Nicolai Rimsky-Korsakov",
+      "rdb_id_people": 106
+    },
+    "composition_year": 1888,
+    "name": "Scheherazade",
+    "piece_full_name": "Scheherazade, Op. 35",
+    "piece_full_name_with_composer": "Nicolai Rimsky-Korsakov: Scheherazade, Op. 35",
+    "rdb_id_piece": 1190,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 5.475,
+        "url": "https://www.youtube.com/watch?v=17lEx0ytE_0"
+      },
+      {
+        "is_live": true,
+        "start_at": 9.408,
+        "url": "https://www.youtube.com/watch?v=zY4w4_W30aQ"
+      },
+      {
+        "is_live": true,
+        "start_at": 31.156,
+        "url": "https://www.youtube.com/watch?v=D0SGp_jdYL8"
+      },
+      {
+        "is_live": true,
+        "start_at": 58.843,
+        "url": "https://www.youtube.com/watch?v=vdnUBQT5Bqw"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=p_iPn1GbUUU"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scheherazade_(Rimsky-Korsakov)"
+  },
+  {
+    "catalogue_number": "D 810",
+    "composer": {
+      "birth_date": "1797-01-31",
+      "death_date": "1828-11-19",
+      "name": "Franz Schubert",
+      "rdb_id_people": 43
+    },
+    "composition_year": 1824,
+    "name": "String Quartet",
+    "number": "14",
+    "piece_full_name": "String Quartet No.14 in D minor, D 810 \"Death and the Maiden\"",
+    "piece_full_name_with_composer": "Franz Schubert: String Quartet No.14 in D minor, D 810 \"Death and the Maiden\"",
+    "rdb_id_piece": 1206,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 5.629,
+        "url": "https://www.youtube.com/watch?v=otdayisyIiM"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=nIOA6Jw5nYo"
+      },
+      {
+        "is_live": true,
+        "start_at": 5.706,
+        "url": "https://www.youtube.com/watch?v=ovEYC-mFjvU"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=LZ-6arutIcc"
+      },
+      {
+        "is_live": true,
+        "start_at": 3.084,
+        "url": "https://www.youtube.com/watch?v=OJTG8a2Oh-w"
+      }
+    ],
+    "sub_name": "Death and the Maiden",
+    "tonality": "D Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/String_Quartet_No._14_%28Schubert%29"
+  },
+  {
+    "catalogue_number": "Op. 95",
+    "composer": {
+      "birth_date": "1841-09-08",
+      "death_date": "1904-05-01",
+      "name": "Anton\u00edn Dvo\u0159\u00e1k",
+      "rdb_id_people": 82
+    },
+    "composition_year": 1893,
+    "name": "Symphony",
+    "number": "9",
+    "piece_full_name": "Symphony No.9 in E minor, Op. 95 \"From the New World\"",
+    "piece_full_name_with_composer": "Anton\u00edn Dvo\u0159\u00e1k: Symphony No.9 in E minor, Op. 95 \"From the New World\"",
+    "rdb_id_piece": 1266,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=1z4UVwIRtNI"
+      },
+      {
+        "is_live": true,
+        "start_at": 77.408,
+        "url": "https://www.youtube.com/watch?v=_9RT2nHD6CQ"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=rRctb4TZSao"
+      },
+      {
+        "is_live": true,
+        "start_at": 12.339,
+        "url": "https://www.youtube.com/watch?v=4OEIkgGLlgc"
+      },
+      {
+        "is_live": true,
+        "start_at": 14.035,
+        "url": "https://www.youtube.com/watch?v=IsymV5sm2UM"
+      }
+    ],
+    "sub_name": "From the New World",
+    "tonality": "E Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Symphony_No._9_(Dvo\u0159\u00e1k)"
+  },
+  {
+    "composer": {
+      "birth_date": "1833-11-12",
+      "death_date": "1887-02-27",
+      "name": "Alexander Borodin",
+      "rdb_id_people": 70
+    },
+    "composition_year": 1880,
+    "name": "In the Steppes of Central Asia",
+    "piece_full_name": "In the Steppes of Central Asia",
+    "piece_full_name_with_composer": "Alexander Borodin: In the Steppes of Central Asia",
+    "rdb_id_piece": 1267,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Dq4bOmxKVQQ"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=ZaO9FBtDzyk"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=YZ1ZeZx2yaI"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=GnHBdKEiTrk"
+      },
+      {
+        "is_live": true,
+        "start_at": 12.107,
+        "url": "https://www.youtube.com/watch?v=A4DF3RjAFvQ"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/In_the_Steppes_of_Central_Asia"
+  },
+  {
+    "catalogue_number": "S. 244",
+    "composer": {
+      "birth_date": "1811-10-22",
+      "death_date": "1886-07-31",
+      "name": "Franz Liszt",
+      "rdb_id_people": 48
+    },
+    "composition_year": 1847,
+    "name": "Hungarian Rhapsody",
+    "number": "2",
+    "piece_full_name": "Hungarian Rhapsody No.2 in C-sharp minor, S. 244",
+    "piece_full_name_with_composer": "Franz Liszt: Hungarian Rhapsody No.2 in C-sharp minor, S. 244",
+    "rdb_id_piece": 1286,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=3OUGJ4lVdqY"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=C-WZ1cW8KeE"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.002,
+        "url": "https://www.youtube.com/watch?v=EFnVnYU56c0"
+      },
+      {
+        "is_live": true,
+        "start_at": 7.789,
+        "url": "https://www.youtube.com/watch?v=LdH1hSWGFGU"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=HO5pClqVpww"
+      }
+    ],
+    "tonality": "C-sharp Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hungarian_Rhapsody_No._2"
+  },
+  {
+    "catalogue_number": "S. 541",
+    "composer": {
+      "birth_date": "1811-10-22",
+      "death_date": "1886-07-31",
+      "name": "Franz Liszt",
+      "rdb_id_people": 48
+    },
+    "composition_year": 1850,
+    "movement_full_name": "3. Oh Lieb, so lang du lieben kannst in A-flat Major",
+    "name": "Dreams of Love",
+    "name_original_language": "Liebestr\u00e4ume",
+    "piece_full_name": "Dreams of Love, S. 541 - 3. Oh Lieb, so lang du lieben kannst in A-flat Major",
+    "piece_full_name_with_composer": "Franz Liszt: Dreams of Love, S. 541 - 3. Oh Lieb, so lang du lieben kannst in A-flat Major",
+    "rdb_id_movement": 3406,
+    "rdb_id_piece": 1333,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 22.287,
+        "url": "https://www.youtube.com/watch?v=Hy-yDyYubL4"
+      },
+      {
+        "is_live": true,
+        "start_at": 12.802,
+        "url": "https://www.youtube.com/watch?v=EVnDugqVjsM"
+      },
+      {
+        "is_live": true,
+        "start_at": 5.784,
+        "url": "https://www.youtube.com/watch?v=qOo8usqblWc"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=PYePaMX4zwU"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.773,
+        "url": "https://www.youtube.com/watch?v=FUrbjUVj-Ws"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Liebestr%C3%A4ume"
+  },
+  {
+    "catalogue_number": "TrV 176",
+    "composer": {
+      "birth_date": "1864-06-11",
+      "death_date": "1949-09-08",
+      "name": "Richard Strauss",
+      "rdb_id_people": 112
+    },
+    "composition_year": 1896,
+    "name": "Thus Spoke Zarathustra",
+    "name_original_language": "Also sprach Zarathustra",
+    "piece_full_name": "Thus Spoke Zarathustra, TrV 176",
+    "piece_full_name_with_composer": "Richard Strauss: Thus Spoke Zarathustra, TrV 176",
+    "rdb_id_piece": 1335,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=IFPwm0e_K98"
+      },
+      {
+        "is_live": true,
+        "start_at": 10.874,
+        "url": "https://www.youtube.com/watch?v=o5bU7ibqGko"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=4nYje1t-VXU"
+      },
+      {
+        "is_live": true,
+        "start_at": 3.778,
+        "url": "https://www.youtube.com/watch?v=ETveS23djXM"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=dVACcYpfMiA"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Also_sprach_Zarathustra_%28Strauss%29"
+  },
+  {
+    "catalogue_number": "P 37",
+    "composer": {
+      "birth_date": "1653-09-01",
+      "death_date": "1706-03-03",
+      "name": "Johann Pachelbel",
+      "rdb_id_people": 245
+    },
+    "composition_year": 1608,
+    "name": "Canon and Gigue",
+    "piece_full_name": "Canon and Gigue in D major, P 37 \"Kanon und Gigue f\u00fcr drei Violinen und Basso Continuo\"",
+    "piece_full_name_with_composer": "Johann Pachelbel: Canon and Gigue in D major, P 37 \"Kanon und Gigue f\u00fcr drei Violinen und Basso Continuo\"",
+    "rdb_id_piece": 1448,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=26MkcZly7LQ"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=CPedE1kFLkg"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=AeUPNmbKwQ4"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=W7ZBbd8b6sI"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=ujZRfC59fDU"
+      }
+    ],
+    "sub_name": "Kanon und Gigue f\u00fcr drei Violinen und Basso Continuo",
+    "tonality": "D Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pachelbel's_Canon"
+  },
+  {
+    "catalogue_number": "Op. 71",
+    "composer": {
+      "birth_date": "1840-05-07",
+      "death_date": "1893-11-06",
+      "name": "Pyotr Ilyich Tchaikovsky",
+      "rdb_id_people": 703
+    },
+    "composition_year": 1892,
+    "movement_full_name": "Act 1 Scene 2: 12. Valse des flocons de neige",
+    "name": "The Nutcracker",
+    "piece_full_name": "The Nutcracker, Op. 71 - Act 1 Scene 2: 12. Valse des flocons de neige",
+    "piece_full_name_with_composer": "Pyotr Ilyich Tchaikovsky: The Nutcracker, Op. 71 - Act 1 Scene 2: 12. Valse des flocons de neige",
+    "rdb_id_movement": 3660,
+    "rdb_id_piece": 1452,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=NLXu9QZmb-I"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=tPa8Cl_qW6I"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=gejVzWwp-T8"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=cso4I8y9YTY"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=GS_gumNLHhM"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Nutcracker"
+  },
+  {
+    "catalogue_number": "Op. 12",
+    "composer": {
+      "birth_date": "1810-03-01",
+      "death_date": "1849-10-17",
+      "name": "Fr\u00e9d\u00e9ric Chopin",
+      "rdb_id_people": 1
+    },
+    "name": "Variations brillantes",
+    "piece_full_name": "Variations brillantes in B-flat major, Op. 12",
+    "piece_full_name_with_composer": "Fr\u00e9d\u00e9ric Chopin: Variations brillantes in B-flat major, Op. 12",
+    "rdb_id_piece": 1631,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 4.55,
+        "url": "https://www.youtube.com/watch?v=5rYLk1jmTO4"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=m7Sxe1y0U7M"
+      },
+      {
+        "is_live": true,
+        "start_at": 2.699,
+        "url": "https://www.youtube.com/watch?v=7upbVW1ac1Y"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=C8TVO13h3Vo"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=jtDBL_-TBY8"
+      }
+    ],
+    "tonality": "B-flat Major"
+  },
+  {
+    "catalogue_number": "Hob. VIIe:1",
+    "composer": {
+      "birth_date": "1732-03-31",
+      "death_date": "1809-05-31",
+      "name": "Franz Joseph Haydn",
+      "rdb_id_people": 16
+    },
+    "composition_year": 1796,
+    "name": "Trumpet Concerto",
+    "piece_full_name": "Trumpet Concerto in E-flat major, Hob. VIIe:1",
+    "piece_full_name_with_composer": "Franz Joseph Haydn: Trumpet Concerto in E-flat major, Hob. VIIe:1",
+    "rdb_id_piece": 1672,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 59.845,
+        "url": "https://www.youtube.com/watch?v=_Aa4VW9gw-U"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=cuSk7iKTopw"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=4i-akM1WpNs"
+      },
+      {
+        "is_live": true,
+        "start_at": 5.089,
+        "url": "https://www.youtube.com/watch?v=YBFBTl8eVkM"
+      },
+      {
+        "is_live": true,
+        "start_at": 10.796,
+        "url": "https://www.youtube.com/watch?v=HYdKdeduuuE"
+      }
+    ],
+    "tonality": "E-flat Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trumpet_Concerto_(Haydn)"
+  },
+  {
+    "catalogue_number": "Op. 70",
+    "composer": {
+      "birth_date": "1770-12-17",
+      "death_date": "1827-03-26",
+      "name": "Ludwig Van Beethoven",
+      "rdb_id_people": 13
+    },
+    "composition_year": 1808,
+    "name": "Piano Trio",
+    "number": "5",
+    "piece_full_name": "Piano Trio No.5 in D major, Op. 70 \"Ghost\"",
+    "piece_full_name_with_composer": "Ludwig Van Beethoven: Piano Trio No.5 in D major, Op. 70 \"Ghost\"",
+    "rdb_id_piece": 1710,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 28.688,
+        "url": "https://www.youtube.com/watch?v=KZTv82aXDzc"
+      },
+      {
+        "is_live": true,
+        "start_at": 3.856,
+        "url": "https://www.youtube.com/watch?v=_XgK71JuBXA"
+      },
+      {
+        "is_live": true,
+        "start_at": 7.557,
+        "url": "https://www.youtube.com/watch?v=Kw_yjmKaYuM"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=wEclAQQ0E40"
+      },
+      {
+        "is_live": true,
+        "start_at": 54.215,
+        "url": "https://www.youtube.com/watch?v=akziMCkuf28"
+      }
+    ],
+    "sub_name": "Ghost",
+    "tonality": "D Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Piano_Trios,_Op._70_(Beethoven)"
+  },
+  {
+    "composer": {
+      "birth_date": "1813-10-10",
+      "death_date": "1901-01-27",
+      "name": "Giuseppe Verdi",
+      "rdb_id_people": 776
+    },
+    "composition_year": 1841,
+    "movement_full_name": "Act 3: 33. Chorus: Va, pensiero, sull'ali dorate",
+    "name": "Nabucco",
+    "piece_full_name": "Nabucco - Act 3: 33. Chorus: Va, pensiero, sull'ali dorate",
+    "piece_full_name_with_composer": "Giuseppe Verdi: Nabucco - Act 3: 33. Chorus: Va, pensiero, sull'ali dorate",
+    "rdb_id_movement": 4776,
+    "rdb_id_piece": 1721,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 0.0,
+        "url": "https://www.youtube.com/watch?v=ePWjVHK_1x0"
+      },
+      {
+        "is_live": true,
+        "start_at": 5.938,
+        "url": "https://www.youtube.com/watch?v=y73i8YejSCU"
+      },
+      {
+        "is_live": true,
+        "start_at": 5.552,
+        "url": "https://www.youtube.com/watch?v=GGW3F-6MUBo"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=W05ljPujSKg"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=H0H23qiz9iI"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nabucco"
+  },
+  {
+    "composer": {
+      "birth_date": "1839-03-21",
+      "death_date": "1881-03-28",
+      "name": "Modest Mussorgsky",
+      "rdb_id_people": 99
+    },
+    "composition_year": 1874,
+    "name": "Pictures at an Exhibition",
+    "piece_full_name": "Pictures at an Exhibition",
+    "piece_full_name_with_composer": "Modest Mussorgsky: Pictures at an Exhibition",
+    "rdb_id_piece": 1733,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=DXy50exHjes"
+      },
+      {
+        "is_live": true,
+        "start_at": 37.326,
+        "url": "https://www.youtube.com/watch?v=yUfSstK3MOc"
+      },
+      {
+        "is_live": true,
+        "start_at": 96.478,
+        "url": "https://www.youtube.com/watch?v=Sq7Qd9PSmR0"
+      },
+      {
+        "is_live": true,
+        "start_at": 57.069,
+        "url": "https://www.youtube.com/watch?v=QLa_MIWZJow"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=kkC3chi_ysw"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pictures_at_an_Exhibition"
+  },
+  {
+    "catalogue_number": "Op. 64",
+    "composer": {
+      "birth_date": "1891-04-27",
+      "death_date": "1953-03-05",
+      "name": "Sergei Prokofiev",
+      "rdb_id_people": 11
+    },
+    "composition_year": 1935,
+    "movement_full_name": "Act 1 Scene 2: 13. Dance of the Knights. Allegro pesante",
+    "name": "Romeo and Juliet",
+    "piece_full_name": "Romeo and Juliet, Op. 64 - Act 1 Scene 2: 13. Dance of the Knights. Allegro pesante",
+    "piece_full_name_with_composer": "Sergei Prokofiev: Romeo and Juliet, Op. 64 - Act 1 Scene 2: 13. Dance of the Knights. Allegro pesante",
+    "rdb_id_movement": 4956,
+    "rdb_id_piece": 1734,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 4.858,
+        "url": "https://www.youtube.com/watch?v=Z_hOR50u7ek"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=IhVtglR8lkI"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=GSPbTRd3AOw"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=nXMsDuuNDOk"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=bBsKplb2E6Q"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Romeo_and_Juliet_(Prokofiev)"
+  },
+  {
+    "composer": {
+      "birth_date": "1813-10-10",
+      "death_date": "1901-01-27",
+      "name": "Giuseppe Verdi",
+      "rdb_id_people": 776
+    },
+    "composition_year": 1851,
+    "movement_full_name": "Act 3: 30. La donna \u00e8 mobile",
+    "name": "Rigoletto",
+    "piece_full_name": "Rigoletto - Act 3: 30. La donna \u00e8 mobile",
+    "piece_full_name_with_composer": "Giuseppe Verdi: Rigoletto - Act 3: 30. La donna \u00e8 mobile",
+    "rdb_id_movement": 5115,
+    "rdb_id_piece": 1738,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 0.231,
+        "url": "https://www.youtube.com/watch?v=xCFEk6Y8TmM"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.0,
+        "url": "https://www.youtube.com/watch?v=wKoa3BHHbB8"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.694,
+        "url": "https://www.youtube.com/watch?v=4iUwkJuRdiY"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.539,
+        "url": "https://www.youtube.com/watch?v=ybcvf9iohNU"
+      },
+      {
+        "is_live": false,
+        "start_at": 4.775,
+        "url": "https://www.youtube.com/watch?v=_BsrQhaHg3U"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rigoletto"
+  },
+  {
+    "composer": {
+      "birth_date": "1824-03-02",
+      "death_date": "1884-05-12",
+      "name": "Bed\u0159ich Smetana",
+      "rdb_id_people": 109
+    },
+    "composition_year": 1874,
+    "name": "My Country: The Moldau",
+    "name_original_language": "M\u00e1 vlast: Vltava",
+    "piece_full_name": "My Country: The Moldau in E minor",
+    "piece_full_name_with_composer": "Bed\u0159ich Smetana: My Country: The Moldau in E minor",
+    "rdb_id_piece": 1746,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=SFk0Wf0iD5I"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=5IRpkuqQ9ro"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=38X9je2CPqw"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=UkWWGvX0R9U"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=3G4NKzmfC-Q"
+      }
+    ],
+    "tonality": "E Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/M\u00e1_vlast"
+  },
+  {
+    "composer": {
+      "birth_date": "1860-07-07",
+      "death_date": "1911-05-18",
+      "name": "Gustav Mahler",
+      "rdb_id_people": 96
+    },
+    "composition_year": 1902,
+    "name": "Symphony",
+    "number": "5",
+    "piece_full_name": "Symphony No.5 in C-sharp minor",
+    "piece_full_name_with_composer": "Gustav Mahler: Symphony No.5 in C-sharp minor",
+    "rdb_id_piece": 2041,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=PB-ybrGm9Rw"
+      },
+      {
+        "is_live": true,
+        "start_at": 2.39,
+        "url": "https://www.youtube.com/watch?v=bDg1VPUeQyI"
+      },
+      {
+        "is_live": true,
+        "start_at": 21.285,
+        "url": "https://www.youtube.com/watch?v=l6Oo0fPX81E"
+      },
+      {
+        "is_live": true,
+        "start_at": 6.092,
+        "url": "https://www.youtube.com/watch?v=itV7kUagglo"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Tc87qB2I6po"
+      }
+    ],
+    "tonality": "C-sharp Minor"
+  },
+  {
+    "catalogue_number": "M. 81",
+    "composer": {
+      "birth_date": "1875-03-07",
+      "death_date": "1937-12-28",
+      "name": "Maurice Ravel",
+      "rdb_id_people": 6
+    },
+    "composition_year": 1928,
+    "name": "Bol\u00e9ro",
+    "piece_full_name": "Bol\u00e9ro in C major, M. 81",
+    "piece_full_name_with_composer": "Maurice Ravel: Bol\u00e9ro in C major, M. 81",
+    "rdb_id_piece": 2348,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=regKUITqHCs"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=g_n0sc8Of4Y"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=xvuMnWZ29YI"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=LD7mnyIgQXQ"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=1CDZ6Zkvd_Y"
+      }
+    ],
+    "tonality": "C Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bol\u00e9ro"
+  },
+  {
+    "catalogue_number": "Op. 115",
+    "composer": {
+      "birth_date": "1833-05-07",
+      "death_date": "1897-04-03",
+      "name": "Johannes Brahms",
+      "rdb_id_people": 18
+    },
+    "composition_year": 1891,
+    "name": "Clarinet Quintet",
+    "piece_full_name": "Clarinet Quintet in B minor, Op. 115",
+    "piece_full_name_with_composer": "Johannes Brahms: Clarinet Quintet in B minor, Op. 115",
+    "rdb_id_piece": 2395,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=2dpMMeetFIk"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=NijYtozUHaw"
+      },
+      {
+        "is_live": true,
+        "start_at": 10.179,
+        "url": "https://www.youtube.com/watch?v=uWnhppC9mFw"
+      },
+      {
+        "is_live": true,
+        "start_at": 9.254,
+        "url": "https://www.youtube.com/watch?v=F1eJq8vrnQg"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=q_ZmPwq3JKU"
+      }
+    ],
+    "tonality": "B Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Clarinet_Quintet_(Brahms)"
+  },
+  {
+    "catalogue_number": "Op. 50",
+    "composer": {
+      "birth_date": "1845-05-12",
+      "death_date": "1924-11-04",
+      "name": "Gabriel Faur\u00e9",
+      "rdb_id_people": 84
+    },
+    "composition_year": 1887,
+    "name": "Pavane",
+    "piece_full_name": "Pavane, Op. 50",
+    "piece_full_name_with_composer": "Gabriel Faur\u00e9: Pavane, Op. 50",
+    "rdb_id_piece": 2397,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 25.989,
+        "url": "https://www.youtube.com/watch?v=wQDoN40-_C4"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=mpgyTl8yqbw"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Ij6iQNBin4I"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Vz3vcaMulj0"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=gXdG9ldi010"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pavane_(Faur\u00e9)"
+  },
+  {
+    "catalogue_number": "Op. 46",
+    "composer": {
+      "birth_date": "1843-06-15",
+      "death_date": "1907-09-04",
+      "name": "Edvard Grieg",
+      "rdb_id_people": 49
+    },
+    "composition_year": 1875,
+    "movement_full_name": "4. In the Hall of the Mountain King (I Dovregubbens hall)",
+    "name": "Peer Gynt Suite",
+    "number": "1",
+    "piece_full_name": "Peer Gynt Suite No.1, Op. 46 - 4. In the Hall of the Mountain King (I Dovregubbens hall)",
+    "piece_full_name_with_composer": "Edvard Grieg: Peer Gynt Suite No.1, Op. 46 - 4. In the Hall of the Mountain King (I Dovregubbens hall)",
+    "rdb_id_movement": 8776,
+    "rdb_id_piece": 2554,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Ck_gUPGCV9Q"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=ZAiEPUu0iO4"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=PbFs0tzHCeE"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=0Vfg9n4NQFI"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=l5zIaC8uGUE"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peer_Gynt_(Grieg)"
+  },
+  {
+    "composer": {
+      "birth_date": "1792-02-29",
+      "death_date": "1868-11-13",
+      "name": "Gioachino Rossini",
+      "rdb_id_people": 149
+    },
+    "composition_year": 1829,
+    "movement_full_name": "4. Ouverture : Allegro vivace. Finale (Overture: The Finale - March Of The Swiss Soldiers) in E Major",
+    "name": "William Tell",
+    "name_original_language": "Guillaume Tell",
+    "piece_full_name": "William Tell - 4. Ouverture : Allegro vivace. Finale (Overture: The Finale - March Of The Swiss Soldiers) in E Major",
+    "piece_full_name_with_composer": "Gioachino Rossini: William Tell - 4. Ouverture : Allegro vivace. Finale (Overture: The Finale - March Of The Swiss Soldiers) in E Major",
+    "rdb_id_movement": 8649,
+    "rdb_id_piece": 2555,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 1.658,
+        "url": "https://www.youtube.com/watch?v=j3T8-aeOrbg"
+      },
+      {
+        "is_live": true,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=YIbYCOiETx0"
+      },
+      {
+        "is_live": true,
+        "start_at": 24.516,
+        "url": "https://www.youtube.com/watch?v=70EBjbSUy50"
+      },
+      {
+        "is_live": true,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=A9RjkgV3a9s"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=2oaIcChc4tI"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/William_Tell_(opera)"
+  },
+  {
+    "composer": {
+      "birth_date": "1801-11-03",
+      "death_date": "1835-09-23",
+      "name": "Vincenzo Bellini",
+      "rdb_id_people": 778
+    },
+    "composition_year": 1831,
+    "movement_full_name": "Act 1 Scene 1: 10. Casta diva",
+    "name": "Norma",
+    "piece_full_name": "Norma - Act 1 Scene 1: 10. Casta diva",
+    "piece_full_name_with_composer": "Vincenzo Bellini: Norma - Act 1 Scene 1: 10. Casta diva",
+    "rdb_id_movement": 8952,
+    "rdb_id_piece": 2662,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=B-9IvuEkreI"
+      },
+      {
+        "is_live": true,
+        "start_at": 3.701,
+        "url": "https://www.youtube.com/watch?v=yiGpm56Bi8s"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.079,
+        "url": "https://www.youtube.com/watch?v=dNsgywuMqHI"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.771,
+        "url": "https://www.youtube.com/watch?v=TYl8GRJGnBY"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.616,
+        "url": "https://www.youtube.com/watch?v=EJ2L_B7VOWs"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Norma_(opera)"
+  },
+  {
+    "composer": {
+      "birth_date": "1866-05-17",
+      "death_date": "1925-07-01",
+      "name": "Erik Satie",
+      "rdb_id_people": 390
+    },
+    "composition_year": 1888,
+    "name": "Gymnop\u00e9die",
+    "number": "3",
+    "piece_full_name": "Gymnop\u00e9die No.3 in A minor",
+    "piece_full_name_with_composer": "Erik Satie: Gymnop\u00e9die No.3 in A minor",
+    "rdb_id_piece": 2666,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Vue5fk8vWEc"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=jVLsLT6cvJ4"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=6RevYn8Mhkw"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=3h4vGRiNYLo"
+      },
+      {
+        "is_live": true,
+        "start_at": 6.401,
+        "url": "https://www.youtube.com/watch?v=VJjGma87kP8"
+      }
+    ],
+    "tonality": "A Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gymnop\u00e9dies"
+  },
+  {
+    "catalogue_number": "WD 33",
+    "composer": {
+      "birth_date": "1838-10-25",
+      "death_date": "1875-06-03",
+      "name": "Georges Bizet",
+      "rdb_id_people": 68
+    },
+    "composition_year": 1855,
+    "name": "Symphony in C",
+    "piece_full_name": "Symphony in C in C major, WD 33",
+    "piece_full_name_with_composer": "Georges Bizet: Symphony in C in C major, WD 33",
+    "rdb_id_piece": 2981,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=WFrLE1kNh7Y"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=T171EAr2df0"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=-xk7TVPyboY"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Y3Dv5aPZrAQ"
+      },
+      {
+        "is_live": true,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=3TuthxWVR4U"
+      }
+    ],
+    "tonality": "C Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Symphony_in_C_(Bizet)"
+  },
+  {
+    "catalogue_number": "WD 31",
+    "composer": {
+      "birth_date": "1838-10-25",
+      "death_date": "1875-06-03",
+      "name": "Georges Bizet",
+      "rdb_id_people": 68
+    },
+    "composition_year": 1875,
+    "movement_full_name": "1. Prelude",
+    "name": "Carmen",
+    "piece_full_name": "Carmen, WD 31 - 1. Prelude",
+    "piece_full_name_with_composer": "Georges Bizet: Carmen, WD 31 - 1. Prelude",
+    "rdb_id_movement": 9065,
+    "rdb_id_piece": 2983,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=pmuFOuh3QHs"
+      },
+      {
+        "is_live": true,
+        "start_at": 19.742,
+        "url": "https://www.youtube.com/watch?v=PQI5LtRtrb0"
+      },
+      {
+        "is_live": true,
+        "start_at": 21.285,
+        "url": "https://www.youtube.com/watch?v=o9Rq5IGen6k"
+      },
+      {
+        "is_live": true,
+        "start_at": 16.426,
+        "url": "https://www.youtube.com/watch?v=KjhDfcAdg7E"
+      },
+      {
+        "is_live": true,
+        "start_at": 2.699,
+        "url": "https://www.youtube.com/watch?v=9qPJHxNO3m0"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carmen"
+  },
+  {
+    "composer": {
+      "birth_date": "1858-12-22",
+      "death_date": "1924-11-29",
+      "name": "Giacomo Puccini",
+      "rdb_id_people": 104
+    },
+    "composition_year": 1924,
+    "movement_full_name": "Act 3 Scene 1: 34. Nessun dorma!",
+    "name": "Turandot",
+    "piece_full_name": "Turandot - Act 3 Scene 1: 34. Nessun dorma!",
+    "piece_full_name_with_composer": "Giacomo Puccini: Turandot - Act 3 Scene 1: 34. Nessun dorma!",
+    "rdb_id_movement": 9734,
+    "rdb_id_piece": 3120,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 22.304,
+        "url": "https://www.youtube.com/watch?v=cWc7vYjgnTs"
+      },
+      {
+        "is_live": false,
+        "start_at": 9.112,
+        "url": "https://www.youtube.com/watch?v=6fDYgCamhrA"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Uau48wh5CeI"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=calcFVojo1A"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.773,
+        "url": "https://www.youtube.com/watch?v=-ZQvgXuu3eU"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Turandot"
+  },
+  {
+    "composer": {
+      "birth_date": "1898-09-26",
+      "death_date": "1937-07-11",
+      "name": "George Gershwin",
+      "rdb_id_people": 53
+    },
+    "composition_year": 1924,
+    "name": "Rhapsody in Blue",
+    "piece_full_name": "Rhapsody in Blue in B-flat major",
+    "piece_full_name_with_composer": "George Gershwin: Rhapsody in Blue in B-flat major",
+    "rdb_id_piece": 3167,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 4.241,
+        "url": "https://www.youtube.com/watch?v=I3fLd5jyL1o"
+      },
+      {
+        "is_live": true,
+        "start_at": 19.966,
+        "url": "https://www.youtube.com/watch?v=cH2PH0auTUU"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=iMCjUOI6Sws"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=2BolsV781mg"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.079,
+        "url": "https://www.youtube.com/watch?v=Tsnac5_VURE"
+      }
+    ],
+    "tonality": "B-flat Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rhapsody_in_Blue"
+  },
+  {
+    "catalogue_number": "Op. 62",
+    "composer": {
+      "birth_date": "1809-02-03",
+      "death_date": "1847-11-04",
+      "name": "Felix Mendelssohn",
+      "rdb_id_people": 44
+    },
+    "composition_year": 1844,
+    "name": "Songs without Words",
+    "name_original_language": "Lieder ohne Worte",
+    "number": "5",
+    "piece_full_name": "Songs without Words No.5, Op. 62",
+    "piece_full_name_with_composer": "Felix Mendelssohn: Songs without Words No.5, Op. 62",
+    "rdb_id_piece": 3289,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=XBGOcTgNA2E"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=nXkonFt9_Tg"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=abK-JnguIvg"
+      },
+      {
+        "is_live": true,
+        "start_at": 7.789,
+        "url": "https://www.youtube.com/watch?v=hwkHLbjrL9o"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=X11ZauccV5M"
+      }
+    ]
+  },
+  {
+    "catalogue_number": "Op. 90",
+    "composer": {
+      "birth_date": "1809-02-03",
+      "death_date": "1847-11-04",
+      "name": "Felix Mendelssohn",
+      "rdb_id_people": 44
+    },
+    "composition_year": 1833,
+    "name": "Symphony",
+    "number": "4",
+    "piece_full_name": "Symphony No.4 in A major, Op. 90 \"Italienische\"",
+    "piece_full_name_with_composer": "Felix Mendelssohn: Symphony No.4 in A major, Op. 90 \"Italienische\"",
+    "rdb_id_piece": 3318,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 35.089,
+        "url": "https://www.youtube.com/watch?v=_HX_jF1_Tgc"
+      },
+      {
+        "is_live": true,
+        "start_at": 25.526,
+        "url": "https://www.youtube.com/watch?v=_OcRBX7tWp8"
+      },
+      {
+        "is_live": true,
+        "start_at": 17.583,
+        "url": "https://www.youtube.com/watch?v=99yCmoNMlQU"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=4pO7_IxbDsU"
+      },
+      {
+        "is_live": true,
+        "start_at": 3.316,
+        "url": "https://www.youtube.com/watch?v=yctFH4hRQeo"
+      }
+    ],
+    "sub_name": "Italienische",
+    "tonality": "A Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Symphony_No._4_(Mendelssohn)"
+  },
+  {
+    "catalogue_number": "H 48",
+    "composer": {
+      "birth_date": "1803-12-11",
+      "death_date": "1869-03-08",
+      "name": "Hector Berlioz",
+      "rdb_id_people": 775
+    },
+    "composition_year": 1830,
+    "movement_full_name": "2. Un bal (A Ball)",
+    "name": "Fantastical Symphony: An Episode in the Life of an Artist, in Five Parts",
+    "name_original_language": "Symphonie fantastique: \u00c9pisode de la vie d'un artiste ... en cinq parties",
+    "piece_full_name": "Fantastical Symphony: An Episode in the Life of an Artist, in Five Parts, H 48 - 2. Un bal (A Ball)",
+    "piece_full_name_with_composer": "Hector Berlioz: Fantastical Symphony: An Episode in the Life of an Artist, in Five Parts, H 48 - 2. Un bal (A Ball)",
+    "rdb_id_movement": 10831,
+    "rdb_id_piece": 3439,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=dMbWdkJAb9I"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=85eKgEjBcuQ"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=s5HFufPG31g"
+      },
+      {
+        "is_live": true,
+        "start_at": 28.534,
+        "url": "https://www.youtube.com/watch?v=6ZSUCUGC3t0"
+      },
+      {
+        "is_live": true,
+        "start_at": 10.796,
+        "url": "https://www.youtube.com/watch?v=2oFPmSLHiOM"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Symphonie_fantastique"
+  },
+  {
+    "composer": {
+      "birth_date": "1882-06-17",
+      "death_date": "1971-04-06",
+      "name": "Igor Stravinsky",
+      "rdb_id_people": 339
+    },
+    "composition_year": 1913,
+    "movement_full_name": "Act 2 - Le Sacrifice (The Sacrifice): 13. Danse sacrale (L'\u00c9lue) (Sacrificial Dance)",
+    "name": "The Rite of Spring",
+    "name_original_language": "Le Sacre du printemps",
+    "piece_full_name": "The Rite of Spring - Act 2 - Le Sacrifice (The Sacrifice): 13. Danse sacrale (L'\u00c9lue) (Sacrificial Dance)",
+    "piece_full_name_with_composer": "Igor Stravinsky: The Rite of Spring - Act 2 - Le Sacrifice (The Sacrifice): 13. Danse sacrale (L'\u00c9lue) (Sacrificial Dance)",
+    "rdb_id_movement": 10882,
+    "rdb_id_piece": 3443,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 15.655,
+        "url": "https://www.youtube.com/watch?v=d6d8wacBjPQ"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=BiH3vA7q0jo"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=q8MoD06wkhw"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=MTIYhbNV5ac"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=r4C5T4rq5AU"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Rite_of_Spring"
+  },
+  {
+    "catalogue_number": "KV 626",
+    "composer": {
+      "birth_date": "1756-01-27",
+      "death_date": "1791-12-05",
+      "name": "Wolfgang Amadeus Mozart",
+      "rdb_id_people": 525
+    },
+    "composition_year": 1791,
+    "name": "Requiem Mass",
+    "piece_full_name": "Requiem Mass in D minor, KV 626 \"Missa pro defunctis; Seelenmesse\"",
+    "piece_full_name_with_composer": "Wolfgang Amadeus Mozart: Requiem Mass in D minor, KV 626 \"Missa pro defunctis; Seelenmesse\"",
+    "rdb_id_piece": 3473,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=8Ra0wDScRwg"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=sPlhKP0nZII"
+      },
+      {
+        "is_live": true,
+        "start_at": 78.431,
+        "url": "https://www.youtube.com/watch?v=hOSSVEJEDLk"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=jBSApy78Ah0"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=63jv0JcDNUg"
+      }
+    ],
+    "sub_name": "Missa pro defunctis; Seelenmesse",
+    "tonality": "D Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Requiem_(Mozart)"
+  },
+  {
+    "catalogue_number": "KV 620",
+    "composer": {
+      "birth_date": "1756-01-27",
+      "death_date": "1791-12-05",
+      "name": "Wolfgang Amadeus Mozart",
+      "rdb_id_people": 525
+    },
+    "composition_year": 1791,
+    "movement_full_name": "Act 1 Scene 1: 1. Ouverture",
+    "name": "Die Zauberfl\u00f6te",
+    "piece_full_name": "Die Zauberfl\u00f6te, KV 620 \"The Magic Flute\" - Act 1 Scene 1: 1. Ouverture",
+    "piece_full_name_with_composer": "Wolfgang Amadeus Mozart: Die Zauberfl\u00f6te, KV 620 \"The Magic Flute\" - Act 1 Scene 1: 1. Ouverture",
+    "rdb_id_movement": 11151,
+    "rdb_id_piece": 3475,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=VyBX2k2M43Q"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=ps90oqxFUNc"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.619,
+        "url": "https://www.youtube.com/watch?v=UwDAFhwBxmk"
+      },
+      {
+        "is_live": true,
+        "start_at": 47.429,
+        "url": "https://www.youtube.com/watch?v=6imwdY0jDQg"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.848,
+        "url": "https://www.youtube.com/watch?v=xxYen0d0y4w"
+      }
+    ],
+    "sub_name": "The Magic Flute",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Magic_Flute"
+  },
+  {
+    "catalogue_number": "KV 384",
+    "composer": {
+      "birth_date": "1756-01-27",
+      "death_date": "1791-12-05",
+      "name": "Wolfgang Amadeus Mozart",
+      "rdb_id_people": 525
+    },
+    "composition_year": 1782,
+    "movement_full_name": "Act 1: 2. Aria: Hier soll ich dich denn sehe (Belmonte)",
+    "name": "Die Entf\u00fchrung aus dem Serail",
+    "piece_full_name": "Die Entf\u00fchrung aus dem Serail, KV 384 \"The Abduction from the Seraglio\" - Act 1: 2. Aria: Hier soll ich dich denn sehe (Belmonte)",
+    "piece_full_name_with_composer": "Wolfgang Amadeus Mozart: Die Entf\u00fchrung aus dem Serail, KV 384 \"The Abduction from the Seraglio\" - Act 1: 2. Aria: Hier soll ich dich denn sehe (Belmonte)",
+    "rdb_id_movement": 11284,
+    "rdb_id_piece": 3498,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=_FvAOoeBW7o"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=PWkm-wD1Z2w"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=mbImhHVdijo"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=U7hGCNwahUE"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.465,
+        "url": "https://www.youtube.com/watch?v=3EHc2JwnxhA"
+      }
+    ],
+    "sub_name": "The Abduction from the Seraglio",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Die_Entf\u00fchrung_aus_dem_Serail"
+  },
+  {
+    "composer": {
+      "birth_date": "1865-10-01",
+      "death_date": "1935-05-17",
+      "name": "Paul Dukas",
+      "rdb_id_people": 24
+    },
+    "composition_year": 1897,
+    "name": "The Sorcerer's Apprentice",
+    "name_original_language": "L'Apprenti sorcier",
+    "piece_full_name": "The Sorcerer's Apprentice",
+    "piece_full_name_with_composer": "Paul Dukas: The Sorcerer's Apprentice",
+    "rdb_id_piece": 3516,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 5.706,
+        "url": "https://www.youtube.com/watch?v=U4yH4B9deok"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=EMSXdKun1GU"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=pCmryuxD2cw"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Gkj2QeogAsU"
+      },
+      {
+        "is_live": true,
+        "start_at": 23.907,
+        "url": "https://www.youtube.com/watch?v=Wqqpv8uJZrg"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Sorcerer%27s_Apprentice_(Dukas)"
+  },
+  {
+    "catalogue_number": "WWV 86B",
+    "composer": {
+      "birth_date": "1813-05-22",
+      "death_date": "1883-02-13",
+      "name": "Richard Wagner",
+      "rdb_id_people": 777
+    },
+    "composition_year": 1874,
+    "movement_full_name": "Act 3 Scene 1: 30. Hojotoho! Hojotoho! Heiaha! Heiaha, (Ride of the Valkyries)",
+    "name": "The Ring of the Nibelung: The Valkyrie",
+    "name_original_language": "Der Ring des Nibelungen: Die Walk\u00fcre",
+    "piece_full_name": "The Ring of the Nibelung: The Valkyrie, WWV 86B - Act 3 Scene 1: 30. Hojotoho! Hojotoho! Heiaha! Heiaha, (Ride of the Valkyries)",
+    "piece_full_name_with_composer": "Richard Wagner: The Ring of the Nibelung: The Valkyrie, WWV 86B - Act 3 Scene 1: 30. Hojotoho! Hojotoho! Heiaha! Heiaha, (Ride of the Valkyries)",
+    "rdb_id_movement": 11630,
+    "rdb_id_piece": 3541,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 8.946,
+        "url": "https://www.youtube.com/watch?v=xeRwBiu4wfQ"
+      },
+      {
+        "is_live": true,
+        "start_at": 7.48,
+        "url": "https://www.youtube.com/watch?v=P73Z6291Pt8"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.233,
+        "url": "https://www.youtube.com/watch?v=VDZSzGayzxg"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=_YWyE1TOYaw"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=2wq59C2tfCY"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Die_Walk\u00fcre"
+  },
+  {
+    "composer": {
+      "birth_date": "1895-07-10",
+      "death_date": "1982-03-29",
+      "name": "Carl Orff",
+      "rdb_id_people": 384
+    },
+    "composition_year": 1935,
+    "movement_full_name": "Act 5 - Fortuna Imperatrix Mundi (Fortune, Empress of the World): 25. O Fortuna (O Fortune)",
+    "name": "Trionfi: Carmina Burana",
+    "piece_full_name": "Trionfi: Carmina Burana - Act 5 - Fortuna Imperatrix Mundi (Fortune, Empress of the World): 25. O Fortuna (O Fortune)",
+    "piece_full_name_with_composer": "Carl Orff: Trionfi: Carmina Burana - Act 5 - Fortuna Imperatrix Mundi (Fortune, Empress of the World): 25. O Fortuna (O Fortune)",
+    "rdb_id_movement": 12496,
+    "rdb_id_piece": 3919,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=GXFSK0ogeg4"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.658,
+        "url": "https://www.youtube.com/watch?v=EJC-_j3SnXk"
+      },
+      {
+        "is_live": true,
+        "start_at": 41.29,
+        "url": "https://www.youtube.com/watch?v=H4U9QJ1nzrg"
+      },
+      {
+        "is_live": true,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=AdIpoE2LEps"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=BNWpZ-Y_KvU"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carmina_Burana_(Orff)"
+  },
+  {
+    "composer": {
+      "birth_date": "1818-06-17",
+      "death_date": "1893-10-18",
+      "name": "Charles Gounod",
+      "rdb_id_people": 91
+    },
+    "composition_year": 1853,
+    "name": "Ave Maria",
+    "piece_full_name": "Ave Maria",
+    "piece_full_name_with_composer": "Charles Gounod: Ave Maria",
+    "rdb_id_piece": 3930,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 0.231,
+        "url": "https://www.youtube.com/watch?v=fzXOaQioeyc"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=570GMKGryIk"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=SMvldwLqe2U"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=HeXTiyktWUE"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Pvn9MTOK_f0"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ave_Maria_(Bach/Gounod)"
+  },
+  {
+    "catalogue_number": "B. 147",
+    "composer": {
+      "birth_date": "1841-09-08",
+      "death_date": "1904-05-01",
+      "name": "Anton\u00edn Dvo\u0159\u00e1k",
+      "rdb_id_people": 82
+    },
+    "composition_year": 1887,
+    "name": "Slavonic Dances",
+    "piece_full_name": "Slavonic Dances, B. 147",
+    "piece_full_name_with_composer": "Anton\u00edn Dvo\u0159\u00e1k: Slavonic Dances, B. 147",
+    "rdb_id_piece": 4250,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 6.565,
+        "url": "https://www.youtube.com/watch?v=e4kTHnGfhvE"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=NE39fBORcNY"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=-6MfTkxG3zY"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=wX52fGwrG20"
+      },
+      {
+        "is_live": true,
+        "start_at": 9.009,
+        "url": "https://www.youtube.com/watch?v=15RuBxyJ3qk"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Slavonic_Dances"
+  },
+  {
+    "catalogue_number": "KV 465",
+    "composer": {
+      "birth_date": "1756-01-27",
+      "death_date": "1791-12-05",
+      "name": "Wolfgang Amadeus Mozart",
+      "rdb_id_people": 525
+    },
+    "composition_year": 1785,
+    "name": "String Quartet",
+    "number": "19",
+    "piece_full_name": "String Quartet No.19 in C major, KV 465 \"Dissonance Quartet; Dissonant Quartet\"",
+    "piece_full_name_with_composer": "Wolfgang Amadeus Mozart: String Quartet No.19 in C major, KV 465 \"Dissonance Quartet; Dissonant Quartet\"",
+    "rdb_id_piece": 4520,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=spd7SfCeLOs"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=zuMs8kD5Des"
+      },
+      {
+        "is_live": true,
+        "start_at": 78.354,
+        "url": "https://www.youtube.com/watch?v=6zbNgyJkzdw"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=CKL-cVwFHkU"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=7zBM6b9C_AQ"
+      }
+    ],
+    "sub_name": "Dissonance Quartet; Dissonant Quartet",
+    "tonality": "C Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/String_Quartet_No._19_(Mozart)"
+  },
+  {
+    "catalogue_number": "KV 421/417b",
+    "composer": {
+      "birth_date": "1756-01-27",
+      "death_date": "1791-12-05",
+      "name": "Wolfgang Amadeus Mozart",
+      "rdb_id_people": 525
+    },
+    "composition_year": 1783,
+    "name": "String Quartet",
+    "number": "15",
+    "piece_full_name": "String Quartet No.15 in D minor, KV 421/417b",
+    "piece_full_name_with_composer": "Wolfgang Amadeus Mozart: String Quartet No.15 in D minor, KV 421/417b",
+    "rdb_id_piece": 4539,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=pNdNcJou7pg"
+      },
+      {
+        "is_live": true,
+        "start_at": 17.352,
+        "url": "https://www.youtube.com/watch?v=cSJ6xpYTS88"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=bAQditfakOo"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=hqLRyTnQ9ds"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=NauMp3edpwQ"
+      }
+    ],
+    "tonality": "D Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/String_Quartet_No._15_(Mozart)"
+  },
+  {
+    "catalogue_number": "Op. 7",
+    "composer": {
+      "birth_date": "1819-09-13",
+      "death_date": "1896-05-20",
+      "name": "Clara Schumann",
+      "rdb_id_people": 150
+    },
+    "composition_year": 1836,
+    "name": "Piano Concerto",
+    "piece_full_name": "Piano Concerto in A minor, Op. 7",
+    "piece_full_name_with_composer": "Clara Schumann (Wieck): Piano Concerto in A minor, Op. 7",
+    "rdb_id_piece": 5398,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 6.119,
+        "url": "https://www.youtube.com/watch?v=sHnYlORpL5Q"
+      },
+      {
+        "is_live": true,
+        "start_at": 2.86,
+        "url": "https://www.youtube.com/watch?v=fcLtg5Ps8Rk"
+      },
+      {
+        "is_live": true,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=8xJujrOz4FU"
+      },
+      {
+        "is_live": true,
+        "start_at": 38.449,
+        "url": "https://www.youtube.com/watch?v=dDpUEk6UzmE"
+      },
+      {
+        "is_live": true,
+        "start_at": 28.64,
+        "url": "https://www.youtube.com/watch?v=W1K9TD0xu8o"
+      }
+    ],
+    "tonality": "A Minor"
+  },
+  {
+    "catalogue_number": "Op. 19",
+    "composer": {
+      "birth_date": "1873-04-01",
+      "death_date": "1943-03-28",
+      "name": "Sergei Rachmaninov",
+      "rdb_id_people": 4
+    },
+    "composition_year": 1901,
+    "name": "Cello Sonata",
+    "piece_full_name": "Cello Sonata in G minor, Op. 19",
+    "piece_full_name_with_composer": "Sergei Rachmaninov: Cello Sonata in G minor, Op. 19",
+    "rdb_id_piece": 5570,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=BM8uE8wFZqw"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=YrXMpfwnbQ4"
+      },
+      {
+        "is_live": true,
+        "start_at": 3.084,
+        "url": "https://www.youtube.com/watch?v=T9HWXm-PR2g"
+      },
+      {
+        "is_live": true,
+        "start_at": 3.624,
+        "url": "https://www.youtube.com/watch?v=ZjDclolqw4g"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=wMEVDYxTDTo"
+      }
+    ],
+    "tonality": "G Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cello_Sonata_(Rachmaninoff)"
+  },
+  {
+    "catalogue_number": "D 328",
+    "composer": {
+      "birth_date": "1797-01-31",
+      "death_date": "1828-11-19",
+      "name": "Franz Schubert",
+      "rdb_id_people": 43
+    },
+    "composition_year": 1815,
+    "name": "The Erlking",
+    "name_original_language": "Erlk\u00f6nig",
+    "piece_full_name": "The Erlking in G minor, D 328",
+    "piece_full_name_with_composer": "Franz Schubert: The Erlking in G minor, D 328",
+    "rdb_id_piece": 6715,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=bp4S4ee-t14"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=FvR3JvbDiBE"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=0WrgC_OVA50"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=10degJsOgBs"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=qhntp5N7r0Y"
+      }
+    ],
+    "tonality": "G Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Der_Erlk\u00f6nig#The_Franz_Schubert_composition"
+  },
+  {
+    "catalogue_number": "L. 86",
+    "composer": {
+      "birth_date": "1862-08-22",
+      "death_date": "1918-03-25",
+      "name": "Claude Debussy",
+      "rdb_id_people": 46
+    },
+    "composition_year": 1894,
+    "name": "Prelude to the Afternoon of a Faun",
+    "name_original_language": "Pr\u00e9lude \u00e0 l'apr\u00e8s-midi d'un faune",
+    "piece_full_name": "Prelude to the Afternoon of a Faun, L. 86",
+    "piece_full_name_with_composer": "Claude Debussy: Prelude to the Afternoon of a Faun, L. 86",
+    "rdb_id_piece": 7115,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 2.159,
+        "url": "https://www.youtube.com/watch?v=E4_RnHXOdlc"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=JbhUxJzud8E"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=vnz4T33Jl7I"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=IHmfIdtJjd4"
+      },
+      {
+        "is_live": true,
+        "start_at": 4.858,
+        "url": "https://www.youtube.com/watch?v=EvnRC7tSX50"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pr\u00e9lude_\u00e0_l%27apr\u00e8s-midi_d%27un_faune"
+  },
+  {
+    "catalogue_number": "BWV 1067",
+    "composer": {
+      "birth_date": "1685-03-21",
+      "death_date": "1750-07-28",
+      "name": "Johann Sebastian Bach",
+      "rdb_id_people": 25
+    },
+    "composition_year": 1739,
+    "name": "Orchestral Suite No.2 (Overture)",
+    "piece_full_name": "Orchestral Suite No.2 (Overture) in B minor, BWV 1067",
+    "piece_full_name_with_composer": "Johann Sebastian Bach: Orchestral Suite No.2 (Overture) in B minor, BWV 1067",
+    "rdb_id_piece": 7620,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=BVI-bZRUueA"
+      },
+      {
+        "is_live": true,
+        "start_at": 7.557,
+        "url": "https://www.youtube.com/watch?v=x8Rv9ppP6A8"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=YV5zMgWfENc"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=hp7AwnMg_wA"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Doa_NoMQDtE"
+      }
+    ],
+    "tonality": "B Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Orchestral_suites_(Bach)"
+  },
+  {
+    "catalogue_number": "Op. 110",
+    "composer": {
+      "birth_date": "1906-09-25",
+      "death_date": "1975-08-09",
+      "name": "Dmitri Shostakovitch",
+      "rdb_id_people": 395
+    },
+    "composition_year": 1960,
+    "name": "String Quartet",
+    "number": "8",
+    "piece_full_name": "String Quartet No.8 in C minor, Op. 110",
+    "piece_full_name_with_composer": "Dmitri Shostakovitch: String Quartet No.8 in C minor, Op. 110",
+    "rdb_id_piece": 8253,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 9.1,
+        "url": "https://www.youtube.com/watch?v=J4dCxnmRVrw"
+      },
+      {
+        "is_live": true,
+        "start_at": 7.095,
+        "url": "https://www.youtube.com/watch?v=6osIrrWdmy8"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.233,
+        "url": "https://www.youtube.com/watch?v=tby5aMrMu6Q"
+      },
+      {
+        "is_live": true,
+        "start_at": 2.853,
+        "url": "https://www.youtube.com/watch?v=41HIXtBElH4"
+      },
+      {
+        "is_live": true,
+        "start_at": 9.64,
+        "url": "https://www.youtube.com/watch?v=-7Y8Wbj80_w"
+      }
+    ],
+    "tonality": "C Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/String_Quartet_No._8_(Shostakovich)"
+  },
+  {
+    "catalogue_number": "BWV 846",
+    "composer": {
+      "birth_date": "1685-03-21",
+      "death_date": "1750-07-28",
+      "name": "Johann Sebastian Bach",
+      "rdb_id_people": 25
+    },
+    "composition_year": 1722,
+    "name": "Prelude and Fugue",
+    "piece_full_name": "Prelude and Fugue in C major, BWV 846",
+    "piece_full_name_with_composer": "Johann Sebastian Bach: Prelude and Fugue in C major, BWV 846",
+    "rdb_id_piece": 8854,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=0KQW2YnCUrE"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=3n0IQ4GnrgI"
+      },
+      {
+        "is_live": true,
+        "start_at": 9.023,
+        "url": "https://www.youtube.com/watch?v=oh-4F17wlCQ"
+      },
+      {
+        "is_live": true,
+        "start_at": 11.105,
+        "url": "https://www.youtube.com/watch?v=AwtwUt0GS3U"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=MaDNUru_q1w"
+      }
+    ],
+    "tonality": "C Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Well-Tempered_Clavier"
+  },
+  {
+    "composer": {
+      "birth_date": "1903-06-06",
+      "death_date": "1978-05-01",
+      "name": "Aram Khatchaturian",
+      "rdb_id_people": 375
+    },
+    "composition_year": 1943,
+    "movement_full_name": "2. Sabre Dance",
+    "name": "Suite from Gayane",
+    "number": "1",
+    "piece_full_name": "Suite from Gayane No.1 - 2. Sabre Dance",
+    "piece_full_name_with_composer": "Aram Khatchaturian: Suite from Gayane No.1 - 2. Sabre Dance",
+    "rdb_id_movement": 22478,
+    "rdb_id_piece": 10761,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Hg1GJf1R5Pg"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=rYo2V1D0mYA"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=BNzFQZ8Sa2s"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.311,
+        "url": "https://www.youtube.com/watch?v=8ob0nRhSKAw"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.079,
+        "url": "https://www.youtube.com/watch?v=mUQHGpxrz-8"
+      }
+    ]
+  },
+  {
+    "catalogue_number": "Op. 47",
+    "composer": {
+      "birth_date": "1860-05-28",
+      "death_date": "1909-05-18",
+      "name": "Isaac Alb\u00e9niz",
+      "rdb_id_people": 782
+    },
+    "composition_year": 1886,
+    "movement_full_name": "5. Asturias (Leyenda)",
+    "name": "Suite espanola",
+    "piece_full_name": "Suite espanola, Op. 47 - 5. Asturias (Leyenda)",
+    "piece_full_name_with_composer": "Isaac Alb\u00e9niz: Suite espanola, Op. 47 - 5. Asturias (Leyenda)",
+    "rdb_id_movement": 23821,
+    "rdb_id_piece": 11542,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=OJ1VfpIgOXI"
+      },
+      {
+        "is_live": true,
+        "start_at": 18.046,
+        "url": "https://www.youtube.com/watch?v=4JK73tG-IpM"
+      },
+      {
+        "is_live": true,
+        "start_at": 15.501,
+        "url": "https://www.youtube.com/watch?v=-P8BQVhOv5A"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=6OU0q6eA4ec"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=6pDTf6QnL24"
+      }
+    ]
+  },
+  {
+    "catalogue_number": "BWV 232",
+    "composer": {
+      "birth_date": "1685-03-21",
+      "death_date": "1750-07-28",
+      "name": "Johann Sebastian Bach",
+      "rdb_id_people": 25
+    },
+    "composition_year": 1749,
+    "name": "Mass",
+    "piece_full_name": "Mass in B minor, BWV 232",
+    "piece_full_name_with_composer": "Johann Sebastian Bach: Mass in B minor, BWV 232",
+    "rdb_id_piece": 12833,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 6.709,
+        "url": "https://www.youtube.com/watch?v=3C0SztMI9-4"
+      },
+      {
+        "is_live": true,
+        "start_at": 7.403,
+        "url": "https://www.youtube.com/watch?v=T48JI_F0lwo"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=pHwBURYSUMU"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=So704KMhspk"
+      },
+      {
+        "is_live": true,
+        "start_at": 9.177,
+        "url": "https://www.youtube.com/watch?v=7F7TVM8m95Y"
+      }
+    ],
+    "tonality": "B Minor"
+  },
+  {
+    "catalogue_number": "D 44",
+    "composer": {
+      "birth_date": "1841-01-18",
+      "death_date": "1894-09-13",
+      "name": "Emmanuel Chabrier",
+      "rdb_id_people": 73
+    },
+    "composition_year": 1883,
+    "name": "Espa\u00f1a",
+    "piece_full_name": "Espa\u00f1a, D 44",
+    "piece_full_name_with_composer": "Emmanuel Chabrier: Espa\u00f1a, D 44",
+    "rdb_id_piece": 13060,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 2.622,
+        "url": "https://www.youtube.com/watch?v=VvlD7XYbI_U"
+      },
+      {
+        "is_live": true,
+        "start_at": 17.892,
+        "url": "https://www.youtube.com/watch?v=K2SwMeT0t-k"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Ni6w7DUfLEY"
+      },
+      {
+        "is_live": true,
+        "start_at": 2.699,
+        "url": "https://www.youtube.com/watch?v=YoBLo2qLtiM"
+      },
+      {
+        "is_live": true,
+        "start_at": 21.208,
+        "url": "https://www.youtube.com/watch?v=nFTX4RbzbrI"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Espana_(Chabrier)"
+  },
+  {
+    "catalogue_number": "FP 164",
+    "composer": {
+      "birth_date": "1899-01-07",
+      "death_date": "1963-01-30",
+      "name": "Francis Poulenc",
+      "rdb_id_people": 7
+    },
+    "composition_year": 1957,
+    "movement_full_name": "2. Cantilena: Assez lent",
+    "name": "Flute Sonata",
+    "name_original_language": "Sonate pour fl\u00fbte et piano",
+    "piece_full_name": "Flute Sonata, FP 164 - 2. Cantilena: Assez lent",
+    "piece_full_name_with_composer": "Francis Poulenc: Flute Sonata, FP 164 - 2. Cantilena: Assez lent",
+    "rdb_id_movement": 26544,
+    "rdb_id_piece": 13281,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 8.02,
+        "url": "https://www.youtube.com/watch?v=emc4MOYZmUU"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=KEJWdXNUzGY"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=_yKLzPRUO4E"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=R0euU-Jt9J4"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=NX3-PjK87Es"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Flute_Sonata_(Poulenc)"
+  },
+  {
+    "catalogue_number": "BWV 147",
+    "composer": {
+      "birth_date": "1685-03-21",
+      "death_date": "1750-07-28",
+      "name": "Johann Sebastian Bach",
+      "rdb_id_people": 25
+    },
+    "composition_year": 1723,
+    "movement_full_name": "2. 10. Chorale: Jesus bleibet meine Freude",
+    "name": "Herz und Mund und Tat und Leben",
+    "piece_full_name": "Herz und Mund und Tat und Leben in C major, BWV 147 - 2. 10. Chorale: Jesus bleibet meine Freude",
+    "piece_full_name_with_composer": "Johann Sebastian Bach: Herz und Mund und Tat und Leben in C major, BWV 147 - 2. 10. Chorale: Jesus bleibet meine Freude",
+    "rdb_id_movement": 26667,
+    "rdb_id_piece": 13351,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=d9EN27Zh_vg"
+      },
+      {
+        "is_live": true,
+        "start_at": 30.771,
+        "url": "https://www.youtube.com/watch?v=giTy0p3C6DE"
+      },
+      {
+        "is_live": true,
+        "start_at": 3.701,
+        "url": "https://www.youtube.com/watch?v=WUo7tQOvapE"
+      },
+      {
+        "is_live": true,
+        "start_at": 33.547,
+        "url": "https://www.youtube.com/watch?v=YuXN5F87tiM"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.0,
+        "url": "https://www.youtube.com/watch?v=sMUSdRVm0RQ"
+      }
+    ],
+    "tonality": "C Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Herz_und_Mund_und_Tat_und_Leben,_BWV_147"
+  },
+  {
+    "catalogue_number": "Op. 26",
+    "composer": {
+      "birth_date": "1865-12-08",
+      "death_date": "1957-09-20",
+      "name": "Jean Sibelius",
+      "rdb_id_people": 108
+    },
+    "composition_year": 1900,
+    "name": "Finlandia",
+    "piece_full_name": "Finlandia, Op. 26",
+    "piece_full_name_with_composer": "Jean Sibelius: Finlandia, Op. 26",
+    "rdb_id_piece": 13381,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=ErIbndlgv_0"
+      },
+      {
+        "is_live": true,
+        "start_at": 6.786,
+        "url": "https://www.youtube.com/watch?v=wqRHRfcnOwQ"
+      },
+      {
+        "is_live": true,
+        "start_at": 26.606,
+        "url": "https://www.youtube.com/watch?v=qOSaT6U4e-8"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=ZmDHK-AAJR0"
+      },
+      {
+        "is_live": true,
+        "start_at": 4.395,
+        "url": "https://www.youtube.com/watch?v=gn2uAYycHmE"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Finlandia"
+  },
+  {
+    "catalogue_number": "Op. 25",
+    "composer": {
+      "birth_date": "1874-01-04",
+      "death_date": "1935-05-29",
+      "name": "Joseph Suk",
+      "rdb_id_people": 113
+    },
+    "composition_year": 1903,
+    "name": "Fantastic Scherzo",
+    "name_original_language": "Fantastick\u00e8 Scherzo",
+    "piece_full_name": "Fantastic Scherzo in G minor, Op. 25",
+    "piece_full_name_with_composer": "Joseph Suk: Fantastic Scherzo in G minor, Op. 25",
+    "rdb_id_piece": 14124,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=ZLMQQWHotXk"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Vn-8nozVuGU"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=wj1Kh2NxGas"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=ScvIipMS340"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=TISaiU-fkAE"
+      }
+    ],
+    "tonality": "G Minor"
+  },
+  {
+    "composer": {
+      "birth_date": "1842-05-12",
+      "death_date": "1912-08-13",
+      "name": "Jules Massenet",
+      "rdb_id_people": 98
+    },
+    "composition_year": 1898,
+    "name": "Tha\u00efs",
+    "piece_full_name": "Tha\u00efs",
+    "piece_full_name_with_composer": "Jules Massenet: Tha\u00efs",
+    "rdb_id_piece": 14130,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 11.722,
+        "url": "https://www.youtube.com/watch?v=luL1T1WQC2k"
+      },
+      {
+        "is_live": true,
+        "start_at": 3.007,
+        "url": "https://www.youtube.com/watch?v=7QtGOWemQhY"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=NLhvMgucWns"
+      },
+      {
+        "is_live": true,
+        "start_at": 7.326,
+        "url": "https://www.youtube.com/watch?v=RZHIAbI9opg"
+      },
+      {
+        "is_live": true,
+        "start_at": 39.023,
+        "url": "https://www.youtube.com/watch?v=KR5MS9bZQ1o"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tha\u00efs_(opera)"
+  },
+  {
+    "catalogue_number": "Op. 32",
+    "composer": {
+      "birth_date": "1874-09-21",
+      "death_date": "1934-05-25",
+      "name": "Gustav Holst",
+      "rdb_id_people": 367
+    },
+    "composition_year": 1916,
+    "name": "The Planets",
+    "piece_full_name": "The Planets, Op. 32",
+    "piece_full_name_with_composer": "Gustav Holst: The Planets, Op. 32",
+    "rdb_id_piece": 14133,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 38.174,
+        "url": "https://www.youtube.com/watch?v=3OD_HzdZwKk"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Isic2Z2e2xs"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=AHVsszW7Nds"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=Kq_vtwhbEtI"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=K0YwUd870-4"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Planets"
+  },
+  {
+    "catalogue_number": "HWV 348",
+    "composer": {
+      "birth_date": "1685-02-23",
+      "death_date": "1759-04-14",
+      "name": "George Frideric Handel",
+      "rdb_id_people": 196
+    },
+    "composition_year": 1717,
+    "name": "Water Music",
+    "number": "1",
+    "piece_full_name": "Water Music No.1 in F major, HWV 348",
+    "piece_full_name_with_composer": "George Frideric Handel: Water Music No.1 in F major, HWV 348",
+    "rdb_id_piece": 14550,
+    "recordings": [
+      {
+        "is_live": true,
+        "start_at": 5.089,
+        "url": "https://www.youtube.com/watch?v=jJyTfttQvdA"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=xAK03AUPiig"
+      },
+      {
+        "is_live": true,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=uEWOrspuQcQ"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=wELZrRz0RAA"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=mAyiidg25uE"
+      }
+    ],
+    "tonality": "F Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Water_Music#Suite_in_F_major_(HWV_348)"
+  },
+  {
+    "composer": {
+      "birth_date": "1910-03-09",
+      "death_date": "1981-01-23",
+      "name": "Samuel Barber",
+      "rdb_id_people": 343
+    },
+    "composition_year": 1967,
+    "name": "Agnus Dei",
+    "piece_full_name": "Agnus Dei in B-flat minor",
+    "piece_full_name_with_composer": "Samuel Barber: Agnus Dei in B-flat minor",
+    "rdb_id_piece": 14877,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=MKAyvkPFQT0"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=FOwRW8ee4S8"
+      },
+      {
+        "is_live": true,
+        "start_at": 5.938,
+        "url": "https://www.youtube.com/watch?v=fRL447oDId4"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=UR-wEbZqT1c"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=AiuC_CaObbI"
+      }
+    ],
+    "tonality": "B-flat Minor",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Agnus_Dei_(Barber)"
+  },
+  {
+    "catalogue_number": "Op. 183",
+    "composer": {
+      "birth_date": "1837-12-09",
+      "death_date": "1915-02-12",
+      "name": "\u00c9mile Waldteufel",
+      "rdb_id_people": 2409
+    },
+    "composition_year": 1882,
+    "name": "Les Patineurs",
+    "piece_full_name": "Les Patineurs in A major, Op. 183",
+    "piece_full_name_with_composer": "\u00c9mile Waldteufel: Les Patineurs in A major, Op. 183",
+    "rdb_id_piece": 15521,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=44vpgKeh1Q0"
+      },
+      {
+        "is_live": true,
+        "start_at": 2.159,
+        "url": "https://www.youtube.com/watch?v=QyfqrNCX0rY"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=y4CXo5A90rQ"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=K2k4B2VsIGU"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=zirn3M3ewQc"
+      }
+    ],
+    "tonality": "A Major",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Les_Patineurs_(waltz)"
+  },
+  {
+    "catalogue_number": "Op. 28",
+    "composer": {
+      "birth_date": "1810-03-01",
+      "death_date": "1849-10-17",
+      "name": "Fr\u00e9d\u00e9ric Chopin",
+      "rdb_id_people": 1
+    },
+    "composition_year": 1839,
+    "movement_full_name": "15. Sostenuto in D-flat Major",
+    "name": "Preludes",
+    "piece_full_name": "Preludes, Op. 28 - 15. Sostenuto in D-flat Major",
+    "piece_full_name_with_composer": "Fr\u00e9d\u00e9ric Chopin: Preludes, Op. 28 - 15. Sostenuto in D-flat Major",
+    "rdb_id_movement": 31112,
+    "rdb_id_piece": 15891,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=MCAybXN5ojA"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=mvHLT16Bq1g"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=aE9NY6CvGZU"
+      },
+      {
+        "is_live": true,
+        "start_at": 93.856,
+        "url": "https://www.youtube.com/watch?v=Q8uONLM5U-I"
+      },
+      {
+        "is_live": true,
+        "start_at": 2.853,
+        "url": "https://www.youtube.com/watch?v=UqmxAndYHsA"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Preludes_(Chopin)"
+  },
+  {
+    "catalogue_number": "Op. 228",
+    "composer": {
+      "birth_date": "1804-03-14",
+      "death_date": "1849-09-25",
+      "name": "Johann Strauss I",
+      "rdb_id_people": 780
+    },
+    "composition_year": 1848,
+    "name": "Radetzky March",
+    "piece_full_name": "Radetzky March, Op. 228",
+    "piece_full_name_with_composer": "Johann Strauss I: Radetzky March, Op. 228",
+    "rdb_id_piece": 15899,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=BlbQrm6zIYo"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.773,
+        "url": "https://www.youtube.com/watch?v=j_NUA9SOybU"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=0XFk8SoCkFA"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=C_RufIcaA-g"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=cUEb6zczFqo"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Radetzky_March"
+  },
+  {
+    "catalogue_number": "Op. 314",
+    "composer": {
+      "birth_date": "1825-10-25",
+      "death_date": "1899-06-03",
+      "name": "Johann Strauss II",
+      "rdb_id_people": 781
+    },
+    "composition_year": 1866,
+    "name": "The Blue Danube",
+    "name_original_language": "An der sch\u00f6nen blauen Donau",
+    "piece_full_name": "The Blue Danube, Op. 314",
+    "piece_full_name_with_composer": "Johann Strauss II: The Blue Danube, Op. 314",
+    "rdb_id_piece": 15903,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=_CTYymbbEL4"
+      },
+      {
+        "is_live": true,
+        "start_at": 6.94,
+        "url": "https://www.youtube.com/watch?v=BrNZ0HGNIn4"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=HvkaXof0Vpw"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=7cw-KMZ1xok"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.773,
+        "url": "https://www.youtube.com/watch?v=IDaJ7rFg66A"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Blue_Danube"
+  },
+  {
+    "composer": {
+      "birth_date": "1819-06-20",
+      "death_date": "1880-10-05",
+      "name": "Jacques Offenbach",
+      "rdb_id_people": 100
+    },
+    "movement_full_name": "Act 4: 35. Belle Nuit, \u00d4 Nuit D'Amour (Nicklausse, Giulietta, Chorus)",
+    "name": "The Tales of Hoffmann",
+    "name_original_language": "Les contes d'Hoffmann",
+    "piece_full_name": "The Tales of Hoffmann - Act 4: 35. Belle Nuit, \u00d4 Nuit D'Amour (Nicklausse, Giulietta, Chorus)",
+    "piece_full_name_with_composer": "Jacques Offenbach: The Tales of Hoffmann - Act 4: 35. Belle Nuit, \u00d4 Nuit D'Amour (Nicklausse, Giulietta, Chorus)",
+    "rdb_id_movement": 31272,
+    "rdb_id_piece": 15905,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=g7czptgEvvU"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.0,
+        "url": "https://www.youtube.com/watch?v=4B39SppH9JI"
+      },
+      {
+        "is_live": true,
+        "start_at": 25.912,
+        "url": "https://www.youtube.com/watch?v=R-MbbebSQjQ"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.0,
+        "url": "https://www.youtube.com/watch?v=Hdc2zNgJIpY"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=c2gxdC31ass"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Tales_of_Hoffmann"
+  },
+  {
+    "catalogue_number": "Op. 23",
+    "composer": {
+      "birth_date": "1873-04-01",
+      "death_date": "1943-03-28",
+      "name": "Sergei Rachmaninov",
+      "rdb_id_people": 4
+    },
+    "composition_year": 1903,
+    "movement_full_name": "5. Alla marcia in G Minor",
+    "name": "Ten Preludes",
+    "piece_full_name": "Ten Preludes, Op. 23 - 5. Alla marcia in G Minor",
+    "piece_full_name_with_composer": "Sergei Rachmaninov: Ten Preludes, Op. 23 - 5. Alla marcia in G Minor",
+    "rdb_id_movement": 31232,
+    "rdb_id_piece": 15909,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=SlcQWUn5DeI"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=I2GKgFZ_ioQ"
+      },
+      {
+        "is_live": true,
+        "start_at": 2.544,
+        "url": "https://www.youtube.com/watch?v=GhBXx-2PadM"
+      },
+      {
+        "is_live": true,
+        "start_at": 5.244,
+        "url": "https://www.youtube.com/watch?v=4QB7ugJnHgs"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=wDFCCHjLzjs"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Preludes,_Op._23_(Rachmaninoff)"
+  },
+  {
+    "catalogue_number": "Op. 23",
+    "composer": {
+      "birth_date": "1873-04-01",
+      "death_date": "1943-03-28",
+      "name": "Sergei Rachmaninov",
+      "rdb_id_people": 4
+    },
+    "composition_year": 1903,
+    "movement_full_name": "10. Largo in F-sharp Major",
+    "name": "Ten Preludes",
+    "piece_full_name": "Ten Preludes, Op. 23 - 10. Largo in F-sharp Major",
+    "piece_full_name_with_composer": "Sergei Rachmaninov: Ten Preludes, Op. 23 - 10. Largo in F-sharp Major",
+    "rdb_id_movement": 31237,
+    "rdb_id_piece": 15909,
+    "recordings": [
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=HruGWkZrnOc"
+      },
+      {
+        "is_live": true,
+        "start_at": 1.388,
+        "url": "https://www.youtube.com/watch?v=-kA1JrTj0FE"
+      },
+      {
+        "is_live": false,
+        "start_at": 0,
+        "url": "https://www.youtube.com/watch?v=8fM7jxL9lFM"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.385,
+        "url": "https://www.youtube.com/watch?v=891IrRmVxCQ"
+      },
+      {
+        "is_live": true,
+        "start_at": 0.231,
+        "url": "https://www.youtube.com/watch?v=b2IeqQMXMJo"
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Preludes,_Op._23_(Rachmaninoff)"
+  }
+]
