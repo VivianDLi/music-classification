@@ -158,9 +158,9 @@ class Model(ABC):
             metrics=["accuracy"],
         )
 
-        checkpoint_path = f"./logs/checkpoints/{self.name}"
-        logging_path = f"./logs/training/{self.name}.log"
-        tensorboard_path = f"./logs/tensorboard/{self.name}"
+        checkpoint_path = f"./logs/checkpoints/{self.name}-{dataset.name}"
+        logging_path = f"./logs/training/{self.name}-{dataset.name}.log"
+        tensorboard_path = f"./logs/tensorboard/{self.name}-{dataset.name}"
         Path(checkpoint_path).mkdir(parents=True, exist_ok=True)
         Path(tensorboard_path).mkdir(parents=True, exist_ok=True)
 
@@ -169,7 +169,7 @@ class Model(ABC):
         tensorboard_callback = TensorBoard(tensorboard_path)
 
         self.model.fit(
-            dataset,
+            dataset.get_train_dataset(),
             callbacks=[
                 checkpoint_callback,
                 logging_callback,
@@ -188,8 +188,8 @@ class Model(ABC):
         Args:
             dataset (Dataset, optional): provides a representative dataset to use for conversion if necessary. Defaults to None.
         """
-        model_path = f"./models/{self.name}.keras"
-        tflite_model_path = f"./models/{self.name}.tflite"
+        model_path = f"./models/{self.name}-{dataset.name}.keras"
+        tflite_model_path = f"./models/{self.name}-{dataset.name}.tflite"
         if Path(model_path).exists():
             self.model = load_model(model_path)
         converter = tf.lite.TFLiteConverter.from_keras_model(self.model)
@@ -242,11 +242,11 @@ class QuantizedModel(Model):
         """
 
         def _representative_dataset_gen():
-            for sample, _ in dataset:
+            for sample, _ in dataset.get_val_dataset():
                 yield [np.expand_dims(sample, axis=0)]
 
-        model_path = f"./models/{self.name}.keras"
-        tflite_model_path = f"./models/{self.name}.tflite"
+        model_path = f"./models/{self.name}-{dataset.name}.keras"
+        tflite_model_path = f"./models/{self.name}-{dataset.name}.tflite"
         if Path(model_path).exists():
             self.model = load_model(model_path)
         converter = tf.lite.TFLiteConverter.from_keras_model(self.model)
@@ -297,15 +297,15 @@ class PrunedModel(Model):
                 )
             return layer
 
-        super().train(dataset)
+        super().train(dataset.get_train_dataset())
         model_for_pruning = tf.keras.models.clone_model(
             self.model, clone_function=_apply_pruning_to_layers
         )
 
-        checkpoint_path = f"./logs/checkpoints/{self.name}"
-        logging_path = f"./logs/training/{self.name}.log"
-        tensorboard_path = f"./logs/tensorboard/{self.name}"
-        pruning_path = f"./logs/pruning/{self.name}"
+        checkpoint_path = f"./logs/checkpoints/{self.name}-{dataset.name}"
+        logging_path = f"./logs/training/{self.name}-{dataset.name}.log"
+        tensorboard_path = f"./logs/tensorboard/{self.name}-{dataset.name}"
+        pruning_path = f"./logs/pruning/{self.name}-{dataset.name}"
         Path(pruning_path).mkdir(parents=True, exist_ok=True)
 
         checkpoint_callback = BackupAndRestore(checkpoint_path)
@@ -313,7 +313,7 @@ class PrunedModel(Model):
         tensorboard_callback = TensorBoard(tensorboard_path)
 
         model_for_pruning.fit(
-            dataset,
+            dataset.get_train_dataset(),
             callbacks=[
                 checkpoint_callback,
                 logging_callback,
@@ -326,7 +326,7 @@ class PrunedModel(Model):
         self.model = tfmot.sparsity.keras.strip_pruning(model_for_pruning)
         print("Pruning Finished.")
 
-        self.model.save(f"./models/{self.name}.keras")
+        self.model.save(f"./models/{self.name}-{dataset.name}.keras")
         print("Model saved.")
 
 
