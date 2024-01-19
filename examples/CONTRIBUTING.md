@@ -2,7 +2,7 @@
 
 You don't need to be a developer to make a significant
 impact on TensorFlow documentation and examples-—just a
-[GitHub account](https://github.com/). 
+[GitHub account](https://github.com/).
 
 Questions about TensorFlow usage are best addressed on
 [StackOverflow](https://stackoverflow.com/questions/tagged/tensorflow) or the
@@ -19,16 +19,15 @@ and the
 We love patches! To publish your changes, you must sign either the individual or
 corporate Contributor License Agreement (CLA):
 
-* If you are an individual writing original documentation or source code and
+- If you are an individual writing original documentation or source code and
   you're sure you own the intellectual property, sign an
   [individual CLA](http://code.google.com/legal/individual-cla-v1.0.html).
-* If you work for a company that wants to allow you to contribute your work, sign
+- If you work for a company that wants to allow you to contribute your work, sign
   a [corporate CLA](http://code.google.com/legal/corporate-cla-v1.0.html).
 
 We can accept your pull requests after you sign the CLA. We can only receive
 original documentation and source code from you and other people that have
 signed the CLA.
-
 
 # Pull requests
 
@@ -46,3 +45,4 @@ https://colab.research.google.com/github/tensorflow/docs/blob/r1.11/site/en/tuto
 
 The [Open in Colab](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo)
 Chrome extension will automatically perform the URL substitution.
+

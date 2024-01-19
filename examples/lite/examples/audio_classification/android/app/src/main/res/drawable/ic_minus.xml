@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
     android:height="24dp"
@@ -7,3 +8,14 @@
       android:fillColor="#FF000000"
       android:pathData="M19,13H5v-2h14v2z"/>
 </vector>
+=======
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M19,13H5v-2h14v2z"/>
+</vector>
+>>>>>>> ca7f655 (finished all data analysis, added in android studio project and latex report, updated readme and requirements.txt with necessary information)

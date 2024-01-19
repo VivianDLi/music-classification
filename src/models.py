@@ -1,5 +1,7 @@
+import json
 from pathlib import Path
 import pickle
+from datetime import datetime
 
 import numpy as np
 import tensorflow as tf
@@ -10,7 +12,7 @@ from keras.models import load_model
 
 from dataset import Dataset
 import keras_models as km
-from constants import NUM_EPOCHS, NUM_PRUNING_EPOCHS
+from constants import NUM_EPOCHS, NUM_PRUNING_EPOCHS, BATCH_SIZE
 
 
 class Model:
@@ -22,7 +24,7 @@ class Model:
 
         if from_file:
             self.model.save(f"./models/{self.name}.keras")
-            km.get_representation_model(self.model).save(
+            km.get_representation_model(self.model, self.name).save(
                 f"./models/{self.name}-representation.keras"
             )
             print("Model saved.")
@@ -41,11 +43,11 @@ class Model:
         self.model.compile(
             loss=self.loss,
             optimizer=self.optimizer,
-            metrics=["accuracy"],
+            metrics=[tf.keras.metrics.SparseCategoricalAccuracy()],
         )
 
         checkpoint_path = f"./logs/checkpoints/{self.name}"
-        logging_path = f"./logs/training/{self.name}.log"
+        logging_path = f"./logs/training/{self.name}-{datetime.now().strftime('%Y-%m-%d-%H-%M-%S')}.log"
         tensorboard_path = f"./logs/tensorboard/{self.name}"
         Path(checkpoint_path).mkdir(parents=True, exist_ok=True)
         Path(tensorboard_path).mkdir(parents=True, exist_ok=True)
@@ -66,7 +68,7 @@ class Model:
         print("Training Finished.")
 
         self.model.save(f"./models/{self.name}.keras")
-        km.get_representation_model(self.model).save(
+        km.get_representation_model(self.model, self.name).save(
             f"./models/{self.name}-representation.keras"
         )
         print("Model saved.")
@@ -89,7 +91,7 @@ class Model:
             f.write(tflite_model)
         print("Model saved.")
 
-    def evaluate(self, dataset: Dataset):
+    def evaluate(self, dataset: Dataset, use_tflite: bool = True):
         """
         Given a query q and references {rn}, extract CQT descriptors, and get network representations for each.
         Then, for all possible query/reference pairs in the test dataset, compute the cosine similarities between their network representations.
@@ -99,51 +101,91 @@ class Model:
         Returns:
             results (dict(str, dict(str, float))): dictionary of query songs to another dictionary of reference songs to cosine similarity distance.
         """
-        # Load the TFLite model
-        interpreter = tf.lite.Interpreter(
-            model_path=f"./models/{self.name}.tflite"
-        )
-        input_index = interpreter.get_input_details()[0]["index"]
-        output_index = interpreter.get_output_details()[0]["index"]
+        if use_tflite:
+            # Load the TFLite model
+            interpreter = tf.lite.Interpreter(
+                model_path=f"./models/{self.name}.tflite"
+            )
+            input_details = interpreter.get_input_details()[0]
+            input_index = interpreter.get_input_details()[0]["index"]
+            output_index = interpreter.get_output_details()[0]["index"]
+            if "q" in self.name:
+                print("Quantizing Input.")
+                input_scale, input_zero_point = input_details["quantization"]
+            else:
+                input_scale, input_zero_point = 1, 0
+        else:
+            model = load_model(f"./models/{self.name}-representation.keras")
 
         results = {}
+        reference_json = {}
 
         reference_ds, query_ds = dataset.get_test_datasets()
-        for query_cqt, query_label in query_ds:
-            for reference_cqt, reference_label in reference_ds:
-                interpreter.resize_tensor_input(input_index, query_cqt.shape)
-                interpreter.allocate_tensors()
-                if "quantized" in self.name:
-                    scale, offset = interpreter.get_input_details()[0][
-                        "quantization"
-                    ]
-                    query_cqt = tf.cast(query_cqt / scale - offset, tf.int8)
-                    reference_cqt = tf.cast(
-                        reference_cqt / scale - offset, tf.int8
-                    )
-                interpreter.set_tensor(input_index, query_cqt)
-                interpreter.invoke()
-                query_data = interpreter.get_tensor(output_index)
-
+        for reference_cqt, reference_label in reference_ds:
+            print(f"Testing query {reference_label}...")
+            if use_tflite:
+                reference_cqt = tf.cast(
+                    reference_cqt / input_scale - input_zero_point,
+                    input_details["dtype"],
+                )
                 interpreter.resize_tensor_input(
                     input_index, reference_cqt.shape
                 )
                 interpreter.allocate_tensors()
                 interpreter.set_tensor(input_index, reference_cqt)
                 interpreter.invoke()
-                reference_data = interpreter.get_tensor(output_index)
-
-                distance = tf.tensordot(query_data, reference_data, 0) / (
+                reference_data = tf.squeeze(
+                    interpreter.get_tensor(output_index)
+                )
+            else:
+                reference_data = tf.squeeze(model(reference_cqt))
+            i = 0
+            for query_cqt, query_label in query_ds:
+                if use_tflite:
+                    temp_cqt = tf.cast(
+                        query_cqt / input_scale + input_zero_point,
+                        input_details["dtype"],
+                    )
+                    interpreter.resize_tensor_input(
+                        input_index, temp_cqt.shape
+                    )
+                    interpreter.allocate_tensors()
+                    interpreter.set_tensor(input_index, temp_cqt)
+                    interpreter.invoke()
+                    query_data = tf.squeeze(
+                        interpreter.get_tensor(output_index)
+                    )
+                else:
+                    query_data = tf.squeeze(model(query_cqt))
+                if "q" in self.name:
+                    query_data = tf.cast(query_data, tf.float32)
+                    reference_data = tf.cast(reference_data, tf.float32)
+                distance = tf.tensordot(query_data, reference_data, 1) / (
                     tf.norm(query_data) * tf.norm(reference_data)
                 )
-                
-                string_query_label = query_label.numpy()[0].decode('utf-8')
-                string_reference_label = reference_label.numpy()[0].decode('utf-8')
-                if string_query_label not in results:
-                    results[string_query_label] = {}
-                if string_reference_label not in results[string_query_label]:
-                    results[string_query_label][string_reference_label] = distance.numpy()
-        with open(f"./results/{self.name}.pkl", "wb") as f:
+
+                string_query_label = query_label.numpy()[0].decode("utf-8")
+                string_reference_label = reference_label.numpy()[0].decode(
+                    "utf-8"
+                )
+                reference_json[
+                    string_reference_label
+                ] = reference_data.numpy().tolist()
+                if (string_query_label, i) not in results:
+                    results[(string_query_label, i)] = {}
+                results[(string_query_label, i)][
+                    string_reference_label
+                ] = distance.numpy()
+                i += 1
+        with open(
+            f"./results/{dataset.name}-{datetime.now().strftime('%Y-%m-%d-%H-%M-%S')}.json",
+            "w",
+        ) as f:
+            json.dump(reference_json, f)
+        with open(
+            f"./results/{self.name}-{datetime.now().strftime('%Y-%m-%d-%H-%M-%S')}.pkl",
+            "wb",
+        ) as f:
             pickle.dump(results, f)
         return results
 
@@ -176,13 +218,10 @@ class QuantizedModel(Model):
 
         def _representative_dataset_gen():
             for sample, _ in dataset.get_val_dataset():
-                yield [np.expand_dims(sample, axis=0)]
+                yield [sample]
 
-        model_path = f"./models/{self.name}-representation.keras"
         tflite_model_path = f"./models/{self.name}.tflite"
-        if Path(model_path).exists():
-            model = load_model(model_path)
-        converter = tf.lite.TFLiteConverter.from_keras_model(model)
+        converter = tf.lite.TFLiteConverter.from_keras_model(self.model)
         converter.optimizations = [tf.lite.Optimize.DEFAULT]
         converter.representative_dataset = _representative_dataset_gen
         converter.target_spec.supported_ops = [
@@ -206,14 +245,20 @@ class PrunedModel(Model):
             dataset (Dataset): training dataset to use.
             checkpoint_used (bool, optional): if the training is resuming from a checkpoint. Defaults to False.
         """
+        num_images = dataset.get_train_dataset().cardinality().numpy()
+        end_step = (
+            np.ceil(num_images / BATCH_SIZE).astype(np.int32)
+            * NUM_PRUNING_EPOCHS
+        )
 
         def _apply_pruning_to_layers(layer):
             pruning_params = {
                 "pruning_schedule": tfmot.sparsity.keras.PolynomialDecay(
-                    initial_sparsity=0.2,
+                    initial_sparsity=0.5,
                     final_sparsity=0.8,
                     begin_step=0,
-                    end_step=-1,
+                    end_step=end_step,
+                    frequency=1,
                 )
             }
             if "conv" in layer.name and layer.name.split("_")[1] in [
@@ -233,9 +278,14 @@ class PrunedModel(Model):
         model_for_pruning = tf.keras.models.clone_model(
             self.model, clone_function=_apply_pruning_to_layers
         )
+        model_for_pruning.compile(
+            loss=self.loss,
+            optimizer=self.optimizer,
+            metrics=[tf.keras.metrics.SparseCategoricalAccuracy()],
+        )
 
         checkpoint_path = f"./logs/checkpoints/{self.name}"
-        logging_path = f"./logs/training/{self.name}.log"
+        logging_path = f"./logs/training/{self.name}-{datetime.now().strftime('%Y-%m-%d-%H-%M-%S')}.log"
         tensorboard_path = f"./logs/tensorboard/{self.name}"
         pruning_path = f"./logs/pruning/{self.name}"
         Path(pruning_path).mkdir(parents=True, exist_ok=True)
@@ -254,31 +304,37 @@ class PrunedModel(Model):
                 tfmot.sparsity.keras.PruningSummaries(log_dir=pruning_path),
             ],
             epochs=NUM_PRUNING_EPOCHS,
-            validation_data=dataset.get_val_dataset(),
-            validation_batch_size=1,
         )
         self.model = tfmot.sparsity.keras.strip_pruning(model_for_pruning)
         print("Pruning Finished.")
 
         self.model.save(f"./models/{self.name}.keras")
-        km.get_representation_model(self.model).save(
+        km.get_representation_model(self.model, self.name).save(
             f"./models/{self.name}-representation.keras"
         )
         print("Model saved.")
 
 
 class FullModel(Model):
-    def __init__(self, n_classes):
-        super().__init__("full_model", km.get_full_model(n_classes))
+    def __init__(self, n_classes, from_file: bool = True):
+        if from_file:
+            model = load_model(f"./models/full_model.keras")
+        else:
+            model = km.get_full_model(n_classes)
+        super().__init__("full_model", model)
 
 
 class SmallModel(Model):
-    def __init__(self, n_classes):
-        super().__init__("small_model", km.get_small_model(n_classes))
+    def __init__(self, n_classes, from_file: bool = True):
+        if from_file:
+            model = load_model(f"./models/small_model.keras")
+        else:
+            model = km.get_small_model(n_classes)
+        super().__init__("small_model", model)
 
 
 class QuantizedFullModel(QuantizedModel):
-    def __init__(self, n_classes, from_file: bool):
+    def __init__(self, n_classes, from_file: bool = True):
         if from_file:
             model = load_model(f"./models/full_model.keras")
         else:
@@ -287,7 +343,7 @@ class QuantizedFullModel(QuantizedModel):
 
 
 class PrunedFullModel(PrunedModel):
-    def __init__(self, n_classes, from_file):
+    def __init__(self, n_classes, from_file: bool = True):
         if from_file:
             model = load_model(f"./models/full_model.keras")
         else:
@@ -296,7 +352,7 @@ class PrunedFullModel(PrunedModel):
 
 
 class QuantizedPrunedFullModel(QuantizedModel, PrunedModel):
-    def __init__(self, n_classes, from_file: bool):
+    def __init__(self, n_classes, from_file: bool = True):
         if from_file:
             model = load_model(f"./models/full_model.keras")
         else:
@@ -305,7 +361,7 @@ class QuantizedPrunedFullModel(QuantizedModel, PrunedModel):
 
 
 class QuantizedSmallModel(QuantizedModel):
-    def __init__(self, n_classes, from_file: bool):
+    def __init__(self, n_classes, from_file: bool = True):
         if from_file:
             model = load_model(f"./models/small_model.keras")
         else:
@@ -314,7 +370,7 @@ class QuantizedSmallModel(QuantizedModel):
 
 
 class PrunedSmallModel(PrunedModel):
-    def __init__(self, n_classes, from_file: bool):
+    def __init__(self, n_classes, from_file: bool = True):
         if from_file:
             model = load_model(f"./models/small_model.keras")
         else:
@@ -323,7 +379,7 @@ class PrunedSmallModel(PrunedModel):
 
 
 class QuantizedPrunedSmallModel(QuantizedModel, PrunedModel):
-    def __init__(self, n_classes, from_file: bool):
+    def __init__(self, n_classes, from_file: bool = True):
         if from_file:
             model = load_model(f"./models/small_model.keras")
         else:

@@ -1,0 +1,157 @@
+\begin{thebibliography}{10}
+
+\bibitem{Shazam}
+Avery Wang.
+\newblock An industrial strength audio search algorithm.
+\newblock In {\em International Society for Music Information Retrieval
+  Conference}, 2003.
+\newblock URL: \url{https://api.semanticscholar.org/CorpusID:5515593}.
+
+\bibitem{Six2014}
+Joren Six and Marc Leman.
+\newblock Panako - a scalable acoustic fingerprinting system handling
+  time-scale and pitch modification.
+\newblock In {\em International Society for Music Information Retrieval
+  Conference}, 2014.
+\newblock URL: \url{https://api.semanticscholar.org/CorpusID:17146219}.
+
+\bibitem{Baluja2008}
+Shumeet Baluja and Michele Covell.
+\newblock Waveprint: Efficient wavelet-based audio fingerprinting.
+\newblock {\em Pattern Recognition}, 41(11):3467--3480, 2008.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0031320308001702},
+  \href {https://doi.org/https://doi.org/10.1016/j.patcog.2008.05.006}
+  {\path{doi:https://doi.org/10.1016/j.patcog.2008.05.006}}.
+
+\bibitem{Ramona2013}
+Mathieu Ramona and Geoffroy Peeters.
+\newblock Audioprint: An efficient audio fingerprint system based on a novel
+  cost-less synchronization scheme.
+\newblock In {\em 2013 IEEE International Conference on Acoustics, Speech and
+  Signal Processing}, pages 818--822, 2013.
+\newblock \href {https://doi.org/10.1109/ICASSP.2013.6637762}
+  {\path{doi:10.1109/ICASSP.2013.6637762}}.
+
+\bibitem{Sonnleitner2016}
+Reinhard Sonnleitner and Gerhard Widmer.
+\newblock Robust quad-based audio fingerprinting.
+\newblock {\em IEEE/ACM Transactions on Audio, Speech, and Language
+  Processing}, 24(3):409--421, 2016.
+\newblock \href {https://doi.org/10.1109/TASLP.2015.2509248}
+  {\path{doi:10.1109/TASLP.2015.2509248}}.
+
+\bibitem{Arzt2017}
+Andreas Arzt and Gerhard Widmer.
+\newblock Piece identification in classical piano music without reference
+  scores, 2017.
+\newblock \href {http://arxiv.org/abs/1708.00733} {\path{arXiv:1708.00733}}.
+
+\bibitem{Rein2006}
+Stephan Rein and Martin Reisslein.
+\newblock Identifying the classical music composition of an unknown performance
+  with wavelet dispersion vector and neural nets.
+\newblock {\em Information Sciences}, 176(12):1629--1655, 2006.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0020025505001878},
+  \href {https://doi.org/https://doi.org/10.1016/j.ins.2005.06.002}
+  {\path{doi:https://doi.org/10.1016/j.ins.2005.06.002}}.
+
+\bibitem{Varior2016}
+Rahul~Rama Varior, Mrinal Haloi, and Gang Wang.
+\newblock Gated siamese convolutional neural network architecture for human
+  re-identification, 2016.
+\newblock \href {http://arxiv.org/abs/1607.08378} {\path{arXiv:1607.08378}}.
+
+\bibitem{Hakala2023}
+Aapo Hakala.
+\newblock {\em Song Identification From Live Music Using Siamese Convolutional
+  Neural Networks}.
+\newblock 2023.
+\newblock URL: \url{https://trepo.tuni.fi/handle/10024/149299}.
+
+\bibitem{Xu2018}
+Xiaoshuo Xu, Xiaoou Chen, and Deshun Yang.
+\newblock Key-invariant convolutional neural network toward efficient cover
+  song identification.
+\newblock In {\em 2018 IEEE International Conference on Multimedia and Expo
+  (ICME)}, pages 1--6, 2018.
+\newblock \href {https://doi.org/10.1109/ICME.2018.8486531}
+  {\path{doi:10.1109/ICME.2018.8486531}}.
+
+\bibitem{Yu2020}
+Zhesong Yu, Xiaoshuo Xu, Xiaoou Chen, and Deshun Yang.
+\newblock Learning a representation for cover song identification using
+  convolutional neural network.
+\newblock In {\em ICASSP 2020 - 2020 IEEE International Conference on
+  Acoustics, Speech and Signal Processing (ICASSP)}, pages 541--545, 2020.
+\newblock \href {https://doi.org/10.1109/ICASSP40776.2020.9053839}
+  {\path{doi:10.1109/ICASSP40776.2020.9053839}}.
+
+\bibitem{Chollet2017}
+François Chollet.
+\newblock Xception: Deep learning with depthwise separable convolutions, 2017.
+\newblock \href {http://arxiv.org/abs/1610.02357} {\path{arXiv:1610.02357}}.
+
+\bibitem{Demosthenous2021}
+Giorgos Demosthenous and Vassilis Vassiliades.
+\newblock Continual learning on the edge with tensorflow lite, 2021.
+\newblock \href {http://arxiv.org/abs/2105.01946} {\path{arXiv:2105.01946}}.
+
+\bibitem{RondoDB}
+RondoDB.
+\newblock Rondodb.
+\newblock URL: \url{https://www.rondodb.com/about}.
+
+\bibitem{MazurkaProject}
+CHARM.
+\newblock The mazurka project.
+\newblock URL: \url{http://www.mazurka.org.uk/}.
+
+\bibitem{Covers80}
+Daniel Ellis and Courtenay Cotton.
+\newblock The 2007 labrosa cover song detection system.
+\newblock 01 2007.
+
+\bibitem{McFee2015}
+{B}rian {M}c{F}ee, {C}olin {R}affel, {D}awen {L}iang, {D}aniel
+  {P}.{W}.~{E}llis, {M}att {M}c{V}icar, {E}ric {B}attenberg, and {O}riol
+  {N}ieto.
+\newblock librosa: {A}udio and {M}usic {S}ignal {A}nalysis in {P}ython.
+\newblock In {K}athryn {H}uff and {J}ames {B}ergstra, editors, {\em
+  {P}roceedings of the 14th {P}ython in {S}cience {C}onference}, pages 18 --
+  24, 2015.
+\newblock \href {https://doi.org/10.25080/Majora-7b98e3ed-003}
+  {\path{doi:10.25080/Majora-7b98e3ed-003}}.
+
+\bibitem{tensorflow2015}
+Mart\'{i}n Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen,
+  Craig Citro, Greg~S. Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin,
+  Sanjay Ghemawat, Ian Goodfellow, Andrew Harp, Geoffrey Irving, Michael Isard,
+  Yangqing Jia, Rafal Jozefowicz, Lukasz Kaiser, Manjunath Kudlur, Josh
+  Levenberg, Dandelion Man\'{e}, Rajat Monga, Sherry Moore, Derek Murray, Chris
+  Olah, Mike Schuster, Jonathon Shlens, Benoit Steiner, Ilya Sutskever, Kunal
+  Talwar, Paul Tucker, Vincent Vanhoucke, Vijay Vasudevan, Fernanda Vi\'{e}gas,
+  Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke, Yuan Yu, and
+  Xiaoqiang Zheng.
+\newblock {TensorFlow}: Large-scale machine learning on heterogeneous systems,
+  2015.
+\newblock Software available from tensorflow.org.
+\newblock URL: \url{https://www.tensorflow.org/}.
+
+\bibitem{Vivian2024}
+Vivian Li.
+\newblock Project repository, 2024.
+\newblock URL: \url{https://github.com/VivianDLi/music-classification}.
+
+\bibitem{keraspruning}
+Pruning with keras.
+\newblock URL:
+  \url{https://www.tensorflow.org/model_optimization/guide/pruning/pruning_with_keras}.
+
+\bibitem{molchanov2019importance}
+Pavlo Molchanov, Arun Mallya, Stephen Tyree, Iuri Frosio, and Jan Kautz.
+\newblock Importance estimation for neural network pruning, 2019.
+\newblock \href {http://arxiv.org/abs/1906.10771} {\path{arXiv:1906.10771}}.
+
+\end{thebibliography}

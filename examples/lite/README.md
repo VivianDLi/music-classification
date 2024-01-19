@@ -37,7 +37,6 @@ only displayed if the confidence score is greater than a defined threshold.
 
 [Raspberry Pi object detection](examples/object_detection/raspberry_pi/README.md)
 
-
 ## Speech command recognition
 
 This application recognizes a set of voice commands using the device's
@@ -49,7 +48,6 @@ is highlighted.
 ### Samples
 
 [iOS speech commands](examples/speech_commands/ios/README.md)
-
 
 ## Gesture classification
 
@@ -95,5 +93,4 @@ realtime.
 ### Samples
 
 [Android Model Personalization](examples/model_personalization/README.md)
-
 

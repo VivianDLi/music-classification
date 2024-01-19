@@ -9,7 +9,8 @@ from constants import BATCH_SIZE, VAL_SPLIT
 def convert_to_cqt(audio: tf.Tensor, original_sr: int):
     """
     For each audio tensor, resample to 22050 Hz mono-channel and convert to CQT using Librosa, with 12 bins per octave and a Hann window with hop-size 512.
-    Further process with a 20-point mean filter and downsample by 20 times.
+
+    Process with a 20-point mean filter and downsample by 20 times (or until max length).
 
     'audio' has format (batch_size, sequence_length, num_channels).
     model needs format (batch_size, n_bins, sequence_length, 1)
@@ -24,7 +25,7 @@ def convert_to_cqt(audio: tf.Tensor, original_sr: int):
     # create CQT
     cqt = np.abs(
         librosa.cqt(
-            mono_audio,
+            resampled_audio,
             sr=22050,
             hop_length=512,
             n_bins=84,
@@ -32,23 +33,26 @@ def convert_to_cqt(audio: tf.Tensor, original_sr: int):
             window="hann",
         )
     )
+    tensor_cqt = tf.convert_to_tensor(cqt[..., tf.newaxis], dtype=tf.float32)
+
     # cqt has shape (batch_size, n_bins (84), t)
     # apply mean filter (convolution) per bin
-    mean_kernel = tf.ones((20, 84, 84), tf.float32) / 20
-    tensor_cqt = tf.nn.conv1d(
-        tf.convert_to_tensor(cqt, dtype=tf.float32),
+    mean_kernel = tf.ones((1, 20, 1, 1), tf.float32) / 20
+    mean_cqt = tf.nn.conv2d(
+        tensor_cqt,
         mean_kernel,
         1,
         "VALID",
-        "NCW",
     )
-    # cqt is now a tensor of shape (batch_size, n_bins (84), t')
+    # cqt is now a tensor of shape (batch_size, n_bins (84), t', 1)
     # convert to an 'image' of shape (batch_size, n_bins, t', 1) and use resize to downsample by 20x in t'
     resized_cqt = tf.image.resize(
-        tensor_cqt[..., tf.newaxis],
-        [tensor_cqt.shape[1], tensor_cqt.shape[2] // 20],
+        mean_cqt,
+        [
+            mean_cqt.shape[1],
+            max(mean_cqt.shape[2] // 20, 200),
+        ],  # to prevent too small inputs
     )
-
     return resized_cqt
 
 
