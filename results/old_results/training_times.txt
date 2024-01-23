@@ -1,0 +1,30 @@
+Evaluation times (Full Model):
+train: 1839.0692467689514s
+convert: 5.182227849960327s
+
+Evaluation times (Small Model):
+train: 1590.1881766319275s
+convert: 4.827481508255005s
+
+Evaluation times (Quantized Model):
+convert: 26.132633209228516s
+
+Evaluation times (Quantized Small Model):
+convert: 20.70767068862915s
+
+Evaluation times (Pruned Model):
+prune: 75.3730800151825s
+convert: 5.3066160678863525s
+
+Evaluation times (Pruned Small Model):
+prune: 62.87205195426941s
+convert: 4.817434310913086s
+
+Evaluation times (qp Full Model):
+prune: 64.60810565948486s
+convert: 16.281827449798584s
+
+Evaluation times (qp Small Model):
+prune: 60.56127429008484s
+convert: 14.09250259399414s
+

@@ -1,0 +1,47 @@
+Full Model:
+    Current peak memory usage: 344,064 B
+    Total MACs: 450,936,792
+    Total weight size: 22,100,820
+    Zipped Size: 20,554,850 B
+
+Small Model:
+    Current peak memory usage: 344,064 B (-0)
+    Total MACs: 283,576,536
+    Total weight size: 14,131,284
+    Zipped Size: 13,150,064 B (-7.40MB)
+
+Quantized Full Model:
+    Current peak memory usage: 86,016 B (-258KB)
+    Total MACs: 450,936,992
+    Total weight size: 5,561,792
+    Zipped Size: 4,402,675 B (-16.2MB)
+
+Quantized Small Model:
+    Current peak memory usage: 86,016 B (-258KB)
+    Total MACs: 283,576,736
+    Total weight size: 3,569,408
+    Zipped Size: 2,807,198 B (-17.7MB)
+
+Pruned Full Model:
+    Current peak memory usage: 344,064 B (-0)
+    Total MACs: 450,936,792
+    Total weight size: 22,100,820
+    Zipped Size: 20,555,195 B (-0MB)
+
+Pruned Small Model:
+    Current peak memory usage: 344,064 B (-0)
+    Total MACs: 283,576,536
+    Total weight size: 14,131,284
+    Zipped Size: 13,150,336 B (-7.40MB)
+
+Quantized Pruned Full Model:
+    Current peak memory usage: 86,016 B (-258KB)
+    Total MACs: 450,936,992
+    Total weight size: 5,561,792
+    Zipped Size: 4,402,849 B (-16.2MB)
+
+Quantized Pruned Small Model:
+    Current peak memory usage: 86,016 B (-258KB)
+    Total MACs: 283,576,736
+    Total weight size: 3,569,408
+    Zipped Size: 2,806,974 B (-17.7MB)

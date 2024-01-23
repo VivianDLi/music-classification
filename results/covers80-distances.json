@@ -1,0 +1,2578 @@
+{
+    "full_model": {
+        "A Whiter Shade Of Pale": [
+            0.51620144,
+            0.64445615
+        ],
+        "Abracadabra": [
+            0.12966116,
+            0.90364707
+        ],
+        "Addicted To Love": [
+            0.3959689,
+            0.8669996
+        ],
+        "All Along The Watchtower": [
+            0.23935395,
+            0.87808317
+        ],
+        "All Tomorrow s Parties": [
+            0.38189644,
+            0.82583475
+        ],
+        "America": [
+            0.25306293,
+            0.5156325
+        ],
+        "Before You Accuse Me": [
+            0.37813613,
+            0.68710583
+        ],
+        "Between The Bars": [
+            0.30594242,
+            0.96770763
+        ],
+        "Blue Collar Man": [
+            0.3804145,
+            0.7215072
+        ],
+        "Caroline No": [
+            0.20928875,
+            0.70225453
+        ],
+        "Cecilia": [
+            0.45724484,
+            0.63173646
+        ],
+        "Claudette": [
+            0.45447955,
+            0.7520089
+        ],
+        "Cocaine": [
+            0.36303243,
+            0.85069954
+        ],
+        "Come Together": [
+            0.43986005,
+            0.9034597
+        ],
+        "Day Tripper": [
+            0.41268885,
+            0.6654155
+        ],
+        "Don t Let It Bring You Down": [
+            0.44642296,
+            0.61052895
+        ],
+        "Downtown Lights": [
+            0.31037524,
+            0.888886
+        ],
+        "Enjoy The Silence": [
+            0.43863112,
+            0.94516474
+        ],
+        "Faith": [
+            0.14849801,
+            0.40347126
+        ],
+        "God Only Knows": [
+            0.20098135,
+            0.712602
+        ],
+        "Gold Dust Woman": [
+            0.3481246,
+            0.76566523
+        ],
+        "Grand Illusion": [
+            0.4651382,
+            0.8376722
+        ],
+        "Happiness is a Warm Gun": [
+            0.46612558,
+            0.7061879
+        ],
+        "Heart Of Gold": [
+            0.22360337,
+            0.48269206
+        ],
+        "Hush": [
+            0.37570608,
+            0.5081365
+        ],
+        "I Can t Get Next To You": [
+            0.4995013,
+            0.81583226
+        ],
+        "I Can t Get No Satisfaction": [
+            0.26432377,
+            0.6857778
+        ],
+        "I Don t Like Mondays": [
+            0.28501385,
+            0.5416886
+        ],
+        "I Don t Want To Miss A Thing": [
+            0.22823687,
+            0.5017178
+        ],
+        "I Love You": [
+            0.4797085,
+            0.7975609
+        ],
+        "I m Losing You": [
+            0.2587163,
+            0.58579296
+        ],
+        "I m Not In Love": [
+            0.31867185,
+            0.83323336
+        ],
+        "It s Tricky": [
+            0.40645385,
+            0.5666478
+        ],
+        "Lady": [
+            0.15430515,
+            0.53063816
+        ],
+        "Let It Be": [
+            0.29683602,
+            0.78443104
+        ],
+        "Little Wing": [
+            0.34834173,
+            0.9271462
+        ],
+        "Lodi": [
+            0.42281783,
+            0.9309149
+        ],
+        "Love Hurts": [
+            0.17193645,
+            0.81688285
+        ],
+        "Maggie s Farm": [
+            0.34473005,
+            0.8685913
+        ],
+        "More Than Words": [
+            0.30675453,
+            0.5861882
+        ],
+        "My Generation": [
+            0.39014527,
+            0.564401
+        ],
+        "My Heart Will Go On": [
+            0.12743077,
+            0.7032283
+        ],
+        "Never Let Me Down Again": [
+            0.29905692,
+            0.7395024
+        ],
+        "New Age": [
+            0.27011666,
+            0.6161107
+        ],
+        "Night Time Is The Right Time": [
+            0.19753125,
+            0.54229313
+        ],
+        "No Woman No Cry": [
+            0.29113203,
+            0.9632687
+        ],
+        "Oh Pretty Woman": [
+            0.32383126,
+            0.5425308
+        ],
+        "Ooby Dooby": [
+            0.32823974,
+            0.7828464
+        ],
+        "Proud Mary": [
+            0.4588813,
+            0.8105862
+        ],
+        "Purple Rain": [
+            0.45374864,
+            0.93316615
+        ],
+        "Rattlesnakes": [
+            0.43364808,
+            0.7017145
+        ],
+        "Real Men": [
+            0.35926938,
+            0.9421358
+        ],
+        "Red Red Wine": [
+            0.4894837,
+            0.4894837
+        ],
+        "River Deep Mountain High": [
+            0.17712745,
+            0.83253694
+        ],
+        "September Gurls": [
+            0.3701192,
+            0.5141844
+        ],
+        "She Came In Through The Bathroom Window": [
+            0.14274551,
+            0.29301465
+        ],
+        "Something So Right": [
+            0.31386882,
+            0.79270303
+        ],
+        "Stone Cold Crazy": [
+            0.2576726,
+            0.63022614
+        ],
+        "Straight From The Heart": [
+            0.28793126,
+            0.9391737
+        ],
+        "Strange Little Girl": [
+            0.25327668,
+            0.38564366
+        ],
+        "Street Fighting Man": [
+            0.18975843,
+            0.7040861
+        ],
+        "Summer of 69": [
+            0.22870009,
+            0.517823
+        ],
+        "Summertime Blues": [
+            0.28320712,
+            0.6624799
+        ],
+        "Take Me To The River": [
+            0.43348914,
+            0.67822886
+        ],
+        "Take On Me": [
+            0.08554406,
+            0.8290798
+        ],
+        "The Boxer": [
+            0.38908687,
+            0.882153
+        ],
+        "Thin Line Between Love And Hate": [
+            0.32941684,
+            0.63859123
+        ],
+        "Time": [
+            0.33457005,
+            0.9015444
+        ],
+        "Tomorrow Never Knows": [
+            0.2818964,
+            0.8654502
+        ],
+        "Toys In The Attic": [
+            0.22484902,
+            0.72078997
+        ],
+        "Train In Vain": [
+            0.4098294,
+            0.8578459
+        ],
+        "Tush": [
+            0.13165383,
+            0.7068448
+        ],
+        "Waiting In Vain": [
+            0.3546179,
+            0.7325134
+        ],
+        "Walk This Way": [
+            0.3979464,
+            0.58425355
+        ],
+        "Walking After Midnight": [
+            0.29944173,
+            0.29944173
+        ],
+        "We Can Work It Out": [
+            0.22646746,
+            0.96610624
+        ],
+        "What s Going On": [
+            0.33743212,
+            0.5843717
+        ],
+        "White Room": [
+            0.33249617,
+            0.87484694
+        ],
+        "Wish You Were Here": [
+            0.23993485,
+            0.8064648
+        ],
+        "Yesterday": [
+            0.28336158,
+            0.68700904
+        ]
+    },
+    "small_model": {
+        "A Whiter Shade Of Pale": [
+            0.4166595,
+            0.78313535
+        ],
+        "Abracadabra": [
+            0.33425474,
+            0.9624898
+        ],
+        "Addicted To Love": [
+            0.5400526,
+            0.9185105
+        ],
+        "All Along The Watchtower": [
+            0.3542194,
+            0.90814984
+        ],
+        "All Tomorrow s Parties": [
+            0.53118414,
+            0.76880115
+        ],
+        "America": [
+            0.21505529,
+            0.782924
+        ],
+        "Before You Accuse Me": [
+            0.5012127,
+            0.56643456
+        ],
+        "Between The Bars": [
+            0.16850632,
+            0.88064146
+        ],
+        "Blue Collar Man": [
+            0.4740287,
+            0.98718834
+        ],
+        "Caroline No": [
+            0.43510807,
+            0.69418067
+        ],
+        "Cecilia": [
+            0.47176376,
+            0.6819216
+        ],
+        "Claudette": [
+            0.4436787,
+            0.647571
+        ],
+        "Cocaine": [
+            0.4952534,
+            0.9086854
+        ],
+        "Come Together": [
+            0.4493768,
+            0.76208746
+        ],
+        "Day Tripper": [
+            0.4765748,
+            0.809218
+        ],
+        "Don t Let It Bring You Down": [
+            0.43934733,
+            0.5983819
+        ],
+        "Downtown Lights": [
+            0.2981739,
+            0.9190309
+        ],
+        "Enjoy The Silence": [
+            0.5471085,
+            0.7289618
+        ],
+        "Faith": [
+            0.48225367,
+            0.69355565
+        ],
+        "God Only Knows": [
+            0.4049623,
+            0.6175802
+        ],
+        "Gold Dust Woman": [
+            0.49467316,
+            0.86358166
+        ],
+        "Grand Illusion": [
+            0.37181747,
+            0.76944876
+        ],
+        "Happiness is a Warm Gun": [
+            0.4324736,
+            0.696467493813657
+        ],
+        "Heart Of Gold": [
+            0.298732,
+            0.49051455
+        ],
+        "Hush": [
+            0.397987,
+            0.670046
+        ],
+        "I Can t Get Next To You": [
+            0.34312436,
+            0.8512494
+        ],
+        "I Can t Get No Satisfaction": [
+            0.4523726,
+            0.8343529
+        ],
+        "I Don t Like Mondays": [
+            0.50321466,
+            0.9335722
+        ],
+        "I Don t Want To Miss A Thing": [
+            0.22079882,
+            0.7962561
+        ],
+        "I Love You": [
+            0.48465043,
+            0.8368257
+        ],
+        "I m Losing You": [
+            0.3298263,
+            0.7952887
+        ],
+        "I m Not In Love": [
+            0.38357452,
+            0.776453
+        ],
+        "It s Tricky": [
+            0.31301188,
+            0.72921216
+        ],
+        "Lady": [
+            0.30225882,
+            0.59542805
+        ],
+        "Let It Be": [
+            0.26336625,
+            0.70864016
+        ],
+        "Little Wing": [
+            0.2149503,
+            0.69921637
+        ],
+        "Lodi": [
+            0.4507154,
+            0.9282817
+        ],
+        "Love Hurts": [
+            0.40468416,
+            0.7448149
+        ],
+        "Maggie s Farm": [
+            0.20662418,
+            0.62448806
+        ],
+        "More Than Words": [
+            0.3782772,
+            0.50439733
+        ],
+        "My Generation": [
+            0.39721948,
+            0.7571377
+        ],
+        "My Heart Will Go On": [
+            0.36578867,
+            0.5370557
+        ],
+        "Never Let Me Down Again": [
+            0.35885963,
+            0.7461887
+        ],
+        "New Age": [
+            0.49473163,
+            0.741251
+        ],
+        "Night Time Is The Right Time": [
+            0.23800638,
+            0.6718162
+        ],
+        "No Woman No Cry": [
+            0.4788297,
+            0.8033086
+        ],
+        "Oh Pretty Woman": [
+            0.3841348,
+            0.5043533
+        ],
+        "Ooby Dooby": [
+            0.5400757,
+            0.63648134
+        ],
+        "Proud Mary": [
+            0.49648598,
+            0.8539473
+        ],
+        "Purple Rain": [
+            0.52199125,
+            0.8541861
+        ],
+        "Rattlesnakes": [
+            0.3096326,
+            0.74556017
+        ],
+        "Real Men": [
+            0.374489,
+            0.6838263
+        ],
+        "Red Red Wine": [
+            0.35126576,
+            0.56580055
+        ],
+        "River Deep Mountain High": [
+            0.5411434,
+            0.8923713
+        ],
+        "September Gurls": [
+            0.46246794,
+            0.8023784
+        ],
+        "She Came In Through The Bathroom Window": [
+            0.26530617,
+            0.45902905
+        ],
+        "Something So Right": [
+            0.52646816,
+            0.62117076
+        ],
+        "Stone Cold Crazy": [
+            0.44228128,
+            0.5694697
+        ],
+        "Straight From The Heart": [
+            0.41827556,
+            0.9154655
+        ],
+        "Strange Little Girl": [
+            0.25237557,
+            0.34315413
+        ],
+        "Street Fighting Man": [
+            0.38948503,
+            0.7600931
+        ],
+        "Summer of 69": [
+            0.3045776,
+            0.7042311
+        ],
+        "Summertime Blues": [
+            0.37439045,
+            0.7478544
+        ],
+        "Take Me To The River": [
+            0.43835104,
+            0.6525544
+        ],
+        "Take On Me": [
+            0.40362006,
+            0.66535205
+        ],
+        "The Boxer": [
+            0.53744435,
+            0.8522368
+        ],
+        "Thin Line Between Love And Hate": [
+            0.47552094,
+            0.8585541
+        ],
+        "Time": [
+            0.39803714,
+            0.58849394
+        ],
+        "Tomorrow Never Knows": [
+            0.55196637,
+            0.7734061
+        ],
+        "Toys In The Attic": [
+            0.25529563,
+            0.7239665
+        ],
+        "Train In Vain": [
+            0.44405377,
+            0.82045406
+        ],
+        "Tush": [
+            0.43970528,
+            0.69436646
+        ],
+        "Waiting In Vain": [
+            0.43912205,
+            0.70309937
+        ],
+        "Walk This Way": [
+            0.47362608,
+            0.78193337
+        ],
+        "Walking After Midnight": [
+            0.34350637,
+            0.48342842
+        ],
+        "We Can Work It Out": [
+            0.33294857,
+            0.9190684
+        ],
+        "What s Going On": [
+            0.5086058,
+            0.73038775
+        ],
+        "White Room": [
+            0.52910763,
+            0.85353184
+        ],
+        "Wish You Were Here": [
+            0.43698636,
+            0.6270886
+        ],
+        "Yesterday": [
+            0.35096106,
+            0.5361906
+        ]
+    },
+    "quantized_full_model": {
+        "A Whiter Shade Of Pale": [
+            0.96145165,
+            0.96145505
+        ],
+        "Abracadabra": [
+            0.96242595,
+            0.96242934
+        ],
+        "Addicted To Love": [
+            0.96102965,
+            0.9627381
+        ],
+        "All Along The Watchtower": [
+            0.9655113,
+            0.9655147
+        ],
+        "All Tomorrow s Parties": [
+            0.96833,
+            0.9775973
+        ],
+        "America": [
+            0.9645745,
+            0.9657356
+        ],
+        "Before You Accuse Me": [
+            0.96242595,
+            0.96242934
+        ],
+        "Between The Bars": [
+            0.96674156,
+            0.9719689
+        ],
+        "Blue Collar Man": [
+            0.969642,
+            0.96964544
+        ],
+        "Caroline No": [
+            0.9614548,
+            0.9616074
+        ],
+        "Cecilia": [
+            0.9603023,
+            0.9603057
+        ],
+        "Claudette": [
+            0.9603023,
+            0.9628027
+        ],
+        "Cocaine": [
+            0.96044725,
+            0.9604507
+        ],
+        "Come Together": [
+            0.9611761,
+            0.9611795
+        ],
+        "Day Tripper": [
+            0.9629417,
+            0.9646749
+        ],
+        "Don t Let It Bring You Down": [
+            0.9603023,
+            0.9603057
+        ],
+        "Downtown Lights": [
+            0.96615124,
+            0.9668864
+        ],
+        "Enjoy The Silence": [
+            0.96044725,
+            0.96088916
+        ],
+        "Faith": [
+            0.96102995,
+            0.9614721
+        ],
+        "God Only Knows": [
+            0.9621487,
+            0.96959364
+        ],
+        "Gold Dust Woman": [
+            0.96102965,
+            0.96103305
+        ],
+        "Grand Illusion": [
+            0.9603023,
+            0.96964544
+        ],
+        "Happiness is a Warm Gun": [
+            0.9668666,
+            0.97077554
+        ],
+        "Heart Of Gold": [
+            0.96102965,
+            0.9635319
+        ],
+        "Hush": [
+            0.9603023,
+            0.9603057
+        ],
+        "I Can t Get Next To You": [
+            0.9603023,
+            0.96854305
+        ],
+        "I Can t Get No Satisfaction": [
+            0.9602989,
+            0.9603023
+        ],
+        "I Don t Like Mondays": [
+            0.9602989,
+            0.9603023
+        ],
+        "I Don t Want To Miss A Thing": [
+            0.96752,
+            0.96752346
+        ],
+        "I Love You": [
+            0.96279925,
+            0.97085124
+        ],
+        "I m Losing You": [
+            0.97088236,
+            0.9708858
+        ],
+        "I m Not In Love": [
+            0.9668666,
+            0.9668666
+        ],
+        "It s Tricky": [
+            0.9602989,
+            0.96102965
+        ],
+        "Lady": [
+            0.97138256,
+            0.971386
+        ],
+        "Let It Be": [
+            0.9645745,
+            0.96457785
+        ],
+        "Little Wing": [
+            0.96348536,
+            0.9634888
+        ],
+        "Lodi": [
+            0.9603023,
+            0.9683335
+        ],
+        "Love Hurts": [
+            0.9614548,
+            0.96145827
+        ],
+        "Maggie s Farm": [
+            0.9730667,
+            0.97768164
+        ],
+        "More Than Words": [
+            0.96159583,
+            0.96159583
+        ],
+        "My Generation": [
+            0.9603023,
+            0.96549475
+        ],
+        "My Heart Will Go On": [
+            0.9603023,
+            0.9603023
+        ],
+        "Never Let Me Down Again": [
+            0.9611761,
+            0.9611795
+        ],
+        "New Age": [
+            0.9695523,
+            0.9695557
+        ],
+        "Night Time Is The Right Time": [
+            0.9695523,
+            0.9695557
+        ],
+        "No Woman No Cry": [
+            0.9652532,
+            0.96776646
+        ],
+        "Oh Pretty Woman": [
+            0.96270233,
+            0.9627057
+        ],
+        "Ooby Dooby": [
+            0.96044725,
+            0.9697001
+        ],
+        "Proud Mary": [
+            0.96869147,
+            0.97382087
+        ],
+        "Purple Rain": [
+            0.9639127,
+            0.9639162
+        ],
+        "Rattlesnakes": [
+            0.96979105,
+            0.9715151
+        ],
+        "Real Men": [
+            0.9618809,
+            0.9618843
+        ],
+        "Red Red Wine": [
+            0.9614548,
+            0.96145827
+        ],
+        "River Deep Mountain High": [
+            0.9618809,
+            0.9618843
+        ],
+        "September Gurls": [
+            0.9603023,
+            0.96687
+        ],
+        "She Came In Through The Bathroom Window": [
+            0.96833,
+            0.9683335
+        ],
+        "Something So Right": [
+            0.96102965,
+            0.96103305
+        ],
+        "Stone Cold Crazy": [
+            0.96914744,
+            0.9727945
+        ],
+        "Straight From The Heart": [
+            0.9605912,
+            0.9605946
+        ],
+        "Strange Little Girl": [
+            0.96979105,
+            0.9785226
+        ],
+        "Street Fighting Man": [
+            0.9605918,
+            0.96059525
+        ],
+        "Summer of 69": [
+            0.9653839,
+            0.9653872
+        ],
+        "Summertime Blues": [
+            0.9603023,
+            0.9604507
+        ],
+        "Take Me To The River": [
+            0.9652532,
+            0.9652566
+        ],
+        "Take On Me": [
+            0.9700472,
+            0.9700506
+        ],
+        "The Boxer": [
+            0.96200603,
+            0.96200943
+        ],
+        "Thin Line Between Love And Hate": [
+            0.9603023,
+            0.9603057
+        ],
+        "Time": [
+            0.96102965,
+            0.96103305
+        ],
+        "Tomorrow Never Knows": [
+            0.9668666,
+            0.969173
+        ],
+        "Toys In The Attic": [
+            0.9700528,
+            0.97383916
+        ],
+        "Train In Vain": [
+            0.9602989,
+            0.960458
+        ],
+        "Tush": [
+            0.96854293,
+            0.9685464
+        ],
+        "Waiting In Vain": [
+            0.96102965,
+            0.9621865
+        ],
+        "Walk This Way": [
+            0.9639127,
+            0.9639162
+        ],
+        "Walking After Midnight": [
+            0.9621487,
+            0.96576947
+        ],
+        "We Can Work It Out": [
+            0.9603023,
+            0.9694928
+        ],
+        "What s Going On": [
+            0.968437,
+            0.97506034
+        ],
+        "White Room": [
+            0.96843916,
+            0.9696049
+        ],
+        "Wish You Were Here": [
+            0.968322,
+            0.9765281
+        ],
+        "Yesterday": [
+            0.9659523,
+            0.9754827
+        ]
+    },
+    "quantized_small_model": {
+        "A Whiter Shade Of Pale": [
+            0.96865004,
+            0.9766886
+        ],
+        "Abracadabra": [
+            0.97248256,
+            0.985595
+        ],
+        "Addicted To Love": [
+            0.9713531,
+            0.9810852
+        ],
+        "All Along The Watchtower": [
+            0.96670336,
+            0.9770232
+        ],
+        "All Tomorrow s Parties": [
+            0.97216755,
+            0.97502494
+        ],
+        "America": [
+            0.9738535,
+            0.9890601
+        ],
+        "Before You Accuse Me": [
+            0.97450167,
+            0.97889054
+        ],
+        "Between The Bars": [
+            0.9682117,
+            0.97074807
+        ],
+        "Blue Collar Man": [
+            0.9619122,
+            0.9685042
+        ],
+        "Caroline No": [
+            0.97440994,
+            0.974736
+        ],
+        "Cecilia": [
+            0.9634535,
+            0.990399
+        ],
+        "Claudette": [
+            0.9709361,
+            0.9727864
+        ],
+        "Cocaine": [
+            0.9736685,
+            0.9736685
+        ],
+        "Come Together": [
+            0.98368984,
+            0.99172205
+        ],
+        "Day Tripper": [
+            0.97279894,
+            0.97836614
+        ],
+        "Don t Let It Bring You Down": [
+            0.9744934,
+            0.97904944
+        ],
+        "Downtown Lights": [
+            0.9760145,
+            0.98782754
+        ],
+        "Enjoy The Silence": [
+            0.9741182,
+            0.98941725
+        ],
+        "Faith": [
+            0.967285,
+            0.96959805
+        ],
+        "God Only Knows": [
+            0.9731167,
+            0.9732711
+        ],
+        "Gold Dust Woman": [
+            0.9764376,
+            0.97893375
+        ],
+        "Grand Illusion": [
+            0.97376627,
+            0.9803629
+        ],
+        "Happiness is a Warm Gun": [
+            0.97297996,
+            0.9805034
+        ],
+        "Heart Of Gold": [
+            0.9669474,
+            0.96754575
+        ],
+        "Hush": [
+            0.9750589,
+            0.99188524
+        ],
+        "I Can t Get Next To You": [
+            0.96276546,
+            0.9646517
+        ],
+        "I Can t Get No Satisfaction": [
+            0.97102547,
+            0.9773774
+        ],
+        "I Don t Like Mondays": [
+            0.9756924,
+            0.97871166
+        ],
+        "I Don t Want To Miss A Thing": [
+            0.9681164,
+            0.9712717
+        ],
+        "I Love You": [
+            0.9645582,
+            0.9787254
+        ],
+        "I m Losing You": [
+            0.9661809,
+            0.9720665
+        ],
+        "I m Not In Love": [
+            0.97119635,
+            0.9806863
+        ],
+        "It s Tricky": [
+            0.97071284,
+            0.97101754
+        ],
+        "Lady": [
+            0.9679154,
+            0.9749847
+        ],
+        "Let It Be": [
+            0.97439545,
+            0.9828534
+        ],
+        "Little Wing": [
+            0.97544396,
+            0.9849974
+        ],
+        "Lodi": [
+            0.9661998,
+            0.9848114
+        ],
+        "Love Hurts": [
+            0.968709,
+            0.97272605
+        ],
+        "Maggie s Farm": [
+            0.9672353,
+            0.98303866
+        ],
+        "More Than Words": [
+            0.96869934,
+            0.9691757
+        ],
+        "My Generation": [
+            0.9756116,
+            0.9782718
+        ],
+        "My Heart Will Go On": [
+            0.9663513,
+            0.9694736
+        ],
+        "Never Let Me Down Again": [
+            0.9669503,
+            0.9694787
+        ],
+        "New Age": [
+            0.96306497,
+            0.97358906
+        ],
+        "Night Time Is The Right Time": [
+            0.97267586,
+            0.97761005
+        ],
+        "No Woman No Cry": [
+            0.96296483,
+            0.9944958
+        ],
+        "Oh Pretty Woman": [
+            0.97251606,
+            0.9842173
+        ],
+        "Ooby Dooby": [
+            0.97368973,
+            0.9750065
+        ],
+        "Proud Mary": [
+            0.9624795,
+            0.9629239
+        ],
+        "Purple Rain": [
+            0.9679318,
+            0.972462
+        ],
+        "Rattlesnakes": [
+            0.9670504,
+            0.9795753
+        ],
+        "Real Men": [
+            0.9746118,
+            0.9869587
+        ],
+        "Red Red Wine": [
+            0.97201705,
+            0.9864698
+        ],
+        "River Deep Mountain High": [
+            0.9727553,
+            0.98459446
+        ],
+        "September Gurls": [
+            0.96468335,
+            0.9847381
+        ],
+        "She Came In Through The Bathroom Window": [
+            0.96967024,
+            0.9756746
+        ],
+        "Something So Right": [
+            0.96447647,
+            0.98236334
+        ],
+        "Stone Cold Crazy": [
+            0.96620125,
+            0.98163843
+        ],
+        "Straight From The Heart": [
+            0.970614,
+            0.9769008
+        ],
+        "Strange Little Girl": [
+            0.9688793,
+            0.9829339
+        ],
+        "Street Fighting Man": [
+            0.9716904,
+            0.98127216
+        ],
+        "Summer of 69": [
+            0.9711776,
+            0.98068553
+        ],
+        "Summertime Blues": [
+            0.9603023,
+            0.9621698
+        ],
+        "Take Me To The River": [
+            0.9721063,
+            0.9764091
+        ],
+        "Take On Me": [
+            0.9749074,
+            0.98836017
+        ],
+        "The Boxer": [
+            0.9667938,
+            0.97727156
+        ],
+        "Thin Line Between Love And Hate": [
+            0.97051203,
+            0.97457373
+        ],
+        "Time": [
+            0.96752536,
+            0.98011696
+        ],
+        "Tomorrow Never Knows": [
+            0.96235836,
+            0.96409464
+        ],
+        "Toys In The Attic": [
+            0.9671995,
+            0.96782756
+        ],
+        "Train In Vain": [
+            0.974545,
+            0.9836916
+        ],
+        "Tush": [
+            0.97265756,
+            0.97584194
+        ],
+        "Waiting In Vain": [
+            0.97422105,
+            0.98448575
+        ],
+        "Walk This Way": [
+            0.9653708,
+            0.99633086
+        ],
+        "Walking After Midnight": [
+            0.9678172,
+            0.97440994
+        ],
+        "We Can Work It Out": [
+            0.96075153,
+            0.96775717
+        ],
+        "What s Going On": [
+            0.974303,
+            0.99571556
+        ],
+        "White Room": [
+            0.9736094,
+            0.9856713
+        ],
+        "Wish You Were Here": [
+            0.9721631,
+            0.9776505
+        ],
+        "Yesterday": [
+            0.96534836,
+            0.9667791
+        ]
+    },
+    "pruned_full_model": {
+        "A Whiter Shade Of Pale": [
+            0.46829116,
+            0.61598396
+        ],
+        "Abracadabra": [
+            0.21631289,
+            0.94897646
+        ],
+        "Addicted To Love": [
+            0.38129216,
+            0.8828869
+        ],
+        "All Along The Watchtower": [
+            0.37597126,
+            0.88174176
+        ],
+        "All Tomorrow s Parties": [
+            0.678449,
+            0.9058995
+        ],
+        "America": [
+            0.42119524,
+            0.80233973
+        ],
+        "Before You Accuse Me": [
+            0.53974444,
+            0.7193061
+        ],
+        "Between The Bars": [
+            0.356245,
+            0.98609173
+        ],
+        "Blue Collar Man": [
+            0.41879314,
+            0.91509086
+        ],
+        "Caroline No": [
+            0.44525212,
+            0.92110723
+        ],
+        "Cecilia": [
+            0.4833929,
+            0.6187643
+        ],
+        "Claudette": [
+            0.45186415,
+            0.73134804
+        ],
+        "Cocaine": [
+            0.4527238,
+            0.94018936
+        ],
+        "Come Together": [
+            0.53850454,
+            0.9310495
+        ],
+        "Day Tripper": [
+            0.47709012,
+            0.82774657
+        ],
+        "Don t Let It Bring You Down": [
+            0.4319763,
+            0.63322866
+        ],
+        "Downtown Lights": [
+            0.37831333,
+            0.9741057
+        ],
+        "Enjoy The Silence": [
+            0.4874828,
+            0.86732197
+        ],
+        "Faith": [
+            0.290334,
+            0.519592
+        ],
+        "God Only Knows": [
+            0.44021696,
+            0.75068384
+        ],
+        "Gold Dust Woman": [
+            0.44568208,
+            0.92898005
+        ],
+        "Grand Illusion": [
+            0.51755077,
+            0.9183896
+        ],
+        "Happiness is a Warm Gun": [
+            0.4478259,
+            0.8312931
+        ],
+        "Heart Of Gold": [
+            0.27371508,
+            0.49542716
+        ],
+        "Hush": [
+            0.44195697,
+            0.5097997
+        ],
+        "I Can t Get Next To You": [
+            0.43405274,
+            0.9424353
+        ],
+        "I Can t Get No Satisfaction": [
+            0.3293061,
+            0.72330433
+        ],
+        "I Don t Like Mondays": [
+            0.4824457,
+            0.8724468
+        ],
+        "I Don t Want To Miss A Thing": [
+            0.30111393,
+            0.7169704
+        ],
+        "I Love You": [
+            0.45823762,
+            0.7882119
+        ],
+        "I m Losing You": [
+            0.3451766,
+            0.57035774
+        ],
+        "I m Not In Love": [
+            0.38867933,
+            0.8971247
+        ],
+        "It s Tricky": [
+            0.4426139,
+            0.80746484
+        ],
+        "Lady": [
+            0.2661505,
+            0.43347993
+        ],
+        "Let It Be": [
+            0.40363973,
+            0.8847495
+        ],
+        "Little Wing": [
+            0.3897531,
+            0.94811475
+        ],
+        "Lodi": [
+            0.49280646,
+            0.9532344
+        ],
+        "Love Hurts": [
+            0.40830725,
+            0.6812523
+        ],
+        "Maggie s Farm": [
+            0.29623753,
+            0.95973086
+        ],
+        "More Than Words": [
+            0.41842598,
+            0.6218701
+        ],
+        "My Generation": [
+            0.46012512,
+            0.8227881
+        ],
+        "My Heart Will Go On": [
+            0.48514804,
+            0.60958314
+        ],
+        "Never Let Me Down Again": [
+            0.4214697,
+            0.6277779
+        ],
+        "New Age": [
+            0.44511753,
+            0.89877796
+        ],
+        "Night Time Is The Right Time": [
+            0.3609822,
+            0.58222735
+        ],
+        "No Woman No Cry": [
+            0.38322046,
+            0.9540384
+        ],
+        "Oh Pretty Woman": [
+            0.36397448,
+            0.47570693
+        ],
+        "Ooby Dooby": [
+            0.48173875,
+            0.8161886
+        ],
+        "Proud Mary": [
+            0.42745474,
+            0.92692095
+        ],
+        "Purple Rain": [
+            0.4263286,
+            0.97341454
+        ],
+        "Rattlesnakes": [
+            0.5550481,
+            0.8616904
+        ],
+        "Real Men": [
+            0.4312066,
+            0.9561524
+        ],
+        "Red Red Wine": [
+            0.4067295,
+            0.58382046
+        ],
+        "River Deep Mountain High": [
+            0.36744642,
+            0.8718848
+        ],
+        "September Gurls": [
+            0.54944384,
+            0.7243542
+        ],
+        "She Came In Through The Bathroom Window": [
+            0.21581905,
+            0.3929373
+        ],
+        "Something So Right": [
+            0.4210316,
+            0.74469775
+        ],
+        "Stone Cold Crazy": [
+            0.4659755,
+            0.5213431
+        ],
+        "Straight From The Heart": [
+            0.33616292,
+            0.8770545
+        ],
+        "Strange Little Girl": [
+            0.23462139,
+            0.28006896
+        ],
+        "Street Fighting Man": [
+            0.3734095,
+            0.6537621
+        ],
+        "Summer of 69": [
+            0.28406528,
+            0.6974839
+        ],
+        "Summertime Blues": [
+            0.42205253,
+            0.6986155
+        ],
+        "Take Me To The River": [
+            0.5463527,
+            0.6121396
+        ],
+        "Take On Me": [
+            0.18348284,
+            0.81945187
+        ],
+        "The Boxer": [
+            0.46623486,
+            0.9445328
+        ],
+        "Thin Line Between Love And Hate": [
+            0.3704955,
+            0.9112982
+        ],
+        "Time": [
+            0.42041716,
+            0.73169833
+        ],
+        "Tomorrow Never Knows": [
+            0.46092877,
+            0.8612831
+        ],
+        "Toys In The Attic": [
+            0.294998,
+            0.84992844
+        ],
+        "Train In Vain": [
+            0.45015362,
+            0.9495165
+        ],
+        "Tush": [
+            0.3565949,
+            0.7147133
+        ],
+        "Waiting In Vain": [
+            0.4593228,
+            0.6300473
+        ],
+        "Walk This Way": [
+            0.4267706,
+            0.5409655
+        ],
+        "Walking After Midnight": [
+            0.32951525,
+            0.33139387
+        ],
+        "We Can Work It Out": [
+            0.39755788,
+            0.95984715
+        ],
+        "What s Going On": [
+            0.5605246,
+            0.5605246
+        ],
+        "White Room": [
+            0.6346447,
+            0.86119515
+        ],
+        "Wish You Were Here": [
+            0.5374895,
+            0.7946981
+        ],
+        "Yesterday": [
+            0.3246053,
+            0.60951495
+        ]
+    },
+    "pruned_small_model": {
+        "A Whiter Shade Of Pale": [
+            0.27248996,
+            0.6560736
+        ],
+        "Abracadabra": [
+            0.33244315,
+            0.9383111
+        ],
+        "Addicted To Love": [
+            0.41077378,
+            0.8715398
+        ],
+        "All Along The Watchtower": [
+            0.24147815,
+            0.86752015
+        ],
+        "All Tomorrow s Parties": [
+            0.41241267,
+            0.77481973
+        ],
+        "America": [
+            0.054572653,
+            0.7335876
+        ],
+        "Before You Accuse Me": [
+            0.38941282,
+            0.51903164
+        ],
+        "Between The Bars": [
+            0.048823703,
+            0.8584178
+        ],
+        "Blue Collar Man": [
+            0.31222844,
+            0.97798294
+        ],
+        "Caroline No": [
+            0.35371327,
+            0.54414487
+        ],
+        "Cecilia": [
+            0.2984288,
+            0.5961058
+        ],
+        "Claudette": [
+            0.3417593,
+            0.568109
+        ],
+        "Cocaine": [
+            0.32810286,
+            0.90822726
+        ],
+        "Come Together": [
+            0.31053713,
+            0.7801875
+        ],
+        "Day Tripper": [
+            0.3097406,
+            0.77776504
+        ],
+        "Don t Let It Bring You Down": [
+            0.33517244,
+            0.5406251
+        ],
+        "Downtown Lights": [
+            0.11834703,
+            0.92612875
+        ],
+        "Enjoy The Silence": [
+            0.40857387,
+            0.6439944
+        ],
+        "Faith": [
+            0.4104858,
+            0.61917454
+        ],
+        "God Only Knows": [
+            0.28468475,
+            0.52776486
+        ],
+        "Gold Dust Woman": [
+            0.3470861,
+            0.84617513
+        ],
+        "Grand Illusion": [
+            0.09409347,
+            0.73469317
+        ],
+        "Happiness is a Warm Gun": [
+            0.328714,
+            0.51548874
+        ],
+        "Heart Of Gold": [
+            0.1922983,
+            0.35707536
+        ],
+        "Hush": [
+            0.20675959,
+            0.5890139
+        ],
+        "I Can t Get Next To You": [
+            0.13191308,
+            0.8487118
+        ],
+        "I Can t Get No Satisfaction": [
+            0.37375778,
+            0.73292637
+        ],
+        "I Don t Like Mondays": [
+            0.42834693,
+            0.9226261
+        ],
+        "I Don t Want To Miss A Thing": [
+            0.05898678,
+            0.73959416
+        ],
+        "I Love You": [
+            0.3480633,
+            0.7761727
+        ],
+        "I m Losing You": [
+            0.18628214,
+            0.68654937
+        ],
+        "I m Not In Love": [
+            0.28838134,
+            0.7485485
+        ],
+        "It s Tricky": [
+            0.22804235,
+            0.7090852
+        ],
+        "Lady": [
+            0.117944546,
+            0.4502572
+        ],
+        "Let It Be": [
+            0.1693911,
+            0.7260743
+        ],
+        "Little Wing": [
+            0.06974818,
+            0.62071997
+        ],
+        "Lodi": [
+            0.26408607,
+            0.91821945
+        ],
+        "Love Hurts": [
+            0.22276023,
+            0.6875499
+        ],
+        "Maggie s Farm": [
+            0.044724748,
+            0.6569908
+        ],
+        "More Than Words": [
+            0.26584998,
+            0.48138428
+        ],
+        "My Generation": [
+            0.24527986,
+            0.7007555
+        ],
+        "My Heart Will Go On": [
+            0.23747556,
+            0.47667864
+        ],
+        "Never Let Me Down Again": [
+            0.21006809,
+            0.64199805
+        ],
+        "New Age": [
+            0.35090664,
+            0.7161748
+        ],
+        "Night Time Is The Right Time": [
+            0.118826576,
+            0.57911104
+        ],
+        "No Woman No Cry": [
+            0.38057038,
+            0.7929601
+        ],
+        "Oh Pretty Woman": [
+            0.18558258,
+            0.2870832
+        ],
+        "Ooby Dooby": [
+            0.3969024,
+            0.5941982
+        ],
+        "Proud Mary": [
+            0.31013095,
+            0.86309636
+        ],
+        "Purple Rain": [
+            0.26036176,
+            0.77756745
+        ],
+        "Rattlesnakes": [
+            0.22163975,
+            0.7284624
+        ],
+        "Real Men": [
+            0.24448809,
+            0.5407372
+        ],
+        "Red Red Wine": [
+            0.20781687,
+            0.35113204
+        ],
+        "River Deep Mountain High": [
+            0.4333204,
+            0.8820693
+        ],
+        "September Gurls": [
+            0.26068765,
+            0.75973886
+        ],
+        "She Came In Through The Bathroom Window": [
+            0.12548289,
+            0.2652428
+        ],
+        "Something So Right": [
+            0.35292205,
+            0.50756913
+        ],
+        "Stone Cold Crazy": [
+            0.29708004,
+            0.48311135
+        ],
+        "Straight From The Heart": [
+            0.18698582,
+            0.9136538
+        ],
+        "Strange Little Girl": [
+            0.11155076,
+            0.26262933
+        ],
+        "Street Fighting Man": [
+            0.1616425,
+            0.62462264
+        ],
+        "Summer of 69": [
+            0.085446835,
+            0.670568
+        ],
+        "Summertime Blues": [
+            0.33855736,
+            0.710467
+        ],
+        "Take Me To The River": [
+            0.33484137,
+            0.5210714
+        ],
+        "Take On Me": [
+            0.29710993,
+            0.53879386
+        ],
+        "The Boxer": [
+            0.32258442,
+            0.74836516
+        ],
+        "Thin Line Between Love And Hate": [
+            0.20823537,
+            0.828406
+        ],
+        "Time": [
+            0.3531915,
+            0.41498935
+        ],
+        "Tomorrow Never Knows": [
+            0.44734856,
+            0.741755
+        ],
+        "Toys In The Attic": [
+            0.10241192,
+            0.7771748
+        ],
+        "Train In Vain": [
+            0.3050171,
+            0.8040995
+        ],
+        "Tush": [
+            0.29950312,
+            0.6314025
+        ],
+        "Waiting In Vain": [
+            0.31752935,
+            0.6603199
+        ],
+        "Walk This Way": [
+            0.3309264,
+            0.70530546
+        ],
+        "Walking After Midnight": [
+            0.20546934,
+            0.41937464
+        ],
+        "We Can Work It Out": [
+            0.33564126,
+            0.86982685
+        ],
+        "What s Going On": [
+            0.4233552,
+            0.6727478
+        ],
+        "White Room": [
+            0.45453256,
+            0.8237214
+        ],
+        "Wish You Were Here": [
+            0.28191614,
+            0.49217004
+        ],
+        "Yesterday": [
+            0.24218114,
+            0.47641617
+        ]
+    },
+    "quantized_pruned_full_model": {
+        "A Whiter Shade Of Pale": [
+            0.9710917,
+            0.97408223
+        ],
+        "Abracadabra": [
+            0.97657925,
+            0.99764323
+        ],
+        "Addicted To Love": [
+            0.9613333,
+            0.9905315
+        ],
+        "All Along The Watchtower": [
+            0.97245646,
+            0.9905836
+        ],
+        "All Tomorrow s Parties": [
+            0.9694155,
+            0.9969136
+        ],
+        "America": [
+            0.97163206,
+            0.997332
+        ],
+        "Before You Accuse Me": [
+            0.9848433,
+            0.98881346
+        ],
+        "Between The Bars": [
+            0.9603057,
+            1.0
+        ],
+        "Blue Collar Man": [
+            0.960458,
+            0.9998461
+        ],
+        "Caroline No": [
+            0.9619679,
+            0.9619679
+        ],
+        "Cecilia": [
+            0.9603023,
+            0.9737588
+        ],
+        "Claudette": [
+            0.9603023,
+            1.0
+        ],
+        "Cocaine": [
+            0.9761503,
+            0.9779398
+        ],
+        "Come Together": [
+            0.9725545,
+            0.99968857
+        ],
+        "Day Tripper": [
+            0.9780996,
+            0.99002665
+        ],
+        "Don t Let It Bring You Down": [
+            0.9603023,
+            0.96893394
+        ],
+        "Downtown Lights": [
+            0.9603057,
+            1.0
+        ],
+        "Enjoy The Silence": [
+            0.96928054,
+            0.99874806
+        ],
+        "Faith": [
+            0.9730593,
+            0.9730593
+        ],
+        "God Only Knows": [
+            0.97412163,
+            0.9767392
+        ],
+        "Gold Dust Woman": [
+            0.9631566,
+            0.9999616
+        ],
+        "Grand Illusion": [
+            0.96196455,
+            0.9619679
+        ],
+        "Happiness is a Warm Gun": [
+            0.9614896,
+            0.99997973
+        ],
+        "Heart Of Gold": [
+            0.96619284,
+            0.96619284
+        ],
+        "Hush": [
+            0.9603023,
+            0.97248346
+        ],
+        "I Can t Get Next To You": [
+            0.9603023,
+            1.0
+        ],
+        "I Can t Get No Satisfaction": [
+            0.9622078,
+            0.96382993
+        ],
+        "I Don t Like Mondays": [
+            0.9761503,
+            0.9805169
+        ],
+        "I Don t Want To Miss A Thing": [
+            0.9603057,
+            0.99998176
+        ],
+        "I Love You": [
+            0.9761503,
+            0.9779398
+        ],
+        "I m Losing You": [
+            0.97160804,
+            0.9823576
+        ],
+        "I m Not In Love": [
+            0.9603057,
+            0.9665429
+        ],
+        "It s Tricky": [
+            0.9603023,
+            0.9603057
+        ],
+        "Lady": [
+            0.9719057,
+            0.9763169
+        ],
+        "Let It Be": [
+            0.9724275,
+            0.98418784
+        ],
+        "Little Wing": [
+            0.9603057,
+            0.9779398
+        ],
+        "Lodi": [
+            0.9604546,
+            0.9999997
+        ],
+        "Love Hurts": [
+            0.9734649,
+            0.97677916
+        ],
+        "Maggie s Farm": [
+            0.9603057,
+            0.9999403
+        ],
+        "More Than Words": [
+            0.97503287,
+            0.98325217
+        ],
+        "My Generation": [
+            0.9603023,
+            0.9603057
+        ],
+        "My Heart Will Go On": [
+            0.96136373,
+            0.9619438
+        ],
+        "Never Let Me Down Again": [
+            0.97498477,
+            0.9769986
+        ],
+        "New Age": [
+            0.960458,
+            0.9999997
+        ],
+        "Night Time Is The Right Time": [
+            0.9735119,
+            0.9788073
+        ],
+        "No Woman No Cry": [
+            0.9725516,
+            0.99893147
+        ],
+        "Oh Pretty Woman": [
+            0.9603057,
+            0.9925525
+        ],
+        "Ooby Dooby": [
+            0.96075547,
+            0.99458706
+        ],
+        "Proud Mary": [
+            0.960458,
+            0.960458
+        ],
+        "Purple Rain": [
+            0.9780996,
+            0.99761456
+        ],
+        "Rattlesnakes": [
+            0.9737803,
+            0.99394375
+        ],
+        "Real Men": [
+            0.96188545,
+            0.9796619
+        ],
+        "Red Red Wine": [
+            0.96161807,
+            0.98108536
+        ],
+        "River Deep Mountain High": [
+            0.9805503,
+            0.9904057
+        ],
+        "September Gurls": [
+            0.9604546,
+            0.960458
+        ],
+        "She Came In Through The Bathroom Window": [
+            0.9603057,
+            0.9714439
+        ],
+        "Something So Right": [
+            0.9619679,
+            0.98121977
+        ],
+        "Stone Cold Crazy": [
+            0.9603023,
+            0.96045464
+        ],
+        "Straight From The Heart": [
+            0.97314113,
+            0.99743426
+        ],
+        "Strange Little Girl": [
+            0.9690147,
+            0.99697644
+        ],
+        "Street Fighting Man": [
+            0.9729321,
+            0.9756811
+        ],
+        "Summer of 69": [
+            0.9603057,
+            0.994541
+        ],
+        "Summertime Blues": [
+            0.9603023,
+            1.0
+        ],
+        "Take Me To The River": [
+            0.9728029,
+            0.97522247
+        ],
+        "Take On Me": [
+            0.97712964,
+            0.98577774
+        ],
+        "The Boxer": [
+            0.9780996,
+            0.99002665
+        ],
+        "Thin Line Between Love And Hate": [
+            0.9604546,
+            0.960458
+        ],
+        "Time": [
+            0.9620462,
+            0.9859526
+        ],
+        "Tomorrow Never Knows": [
+            0.96136713,
+            0.96136713
+        ],
+        "Toys In The Attic": [
+            0.9603057,
+            0.9603057
+        ],
+        "Train In Vain": [
+            0.9603023,
+            0.9603057
+        ],
+        "Tush": [
+            0.96180725,
+            0.96660477
+        ],
+        "Waiting In Vain": [
+            0.96149564,
+            0.961499
+        ],
+        "Walk This Way": [
+            0.9780996,
+            0.99496883
+        ],
+        "Walking After Midnight": [
+            0.9603057,
+            0.9603057
+        ],
+        "We Can Work It Out": [
+            0.9603023,
+            0.99997413
+        ],
+        "What s Going On": [
+            0.9780996,
+            0.9845312
+        ],
+        "White Room": [
+            0.9703966,
+            0.99635106
+        ],
+        "Wish You Were Here": [
+            0.96076214,
+            0.99999857
+        ],
+        "Yesterday": [
+            0.9603057,
+            0.9649347
+        ]
+    },
+    "quantized_pruned_small_model": {
+        "A Whiter Shade Of Pale": [
+            0.97233564,
+            0.9724849
+        ],
+        "Abracadabra": [
+            0.96544755,
+            0.99997836
+        ],
+        "Addicted To Love": [
+            0.97089314,
+            0.9717544
+        ],
+        "All Along The Watchtower": [
+            0.97252345,
+            0.9996655
+        ],
+        "All Tomorrow s Parties": [
+            0.9775306,
+            0.99642247
+        ],
+        "America": [
+            0.96282923,
+            0.97041166
+        ],
+        "Before You Accuse Me": [
+            0.96282923,
+            0.967831
+        ],
+        "Between The Bars": [
+            0.9739451,
+            0.99527466
+        ],
+        "Blue Collar Man": [
+            0.9617896,
+            0.99920577
+        ],
+        "Caroline No": [
+            0.9666316,
+            0.99684465
+        ],
+        "Cecilia": [
+            0.97027344,
+            0.9751142
+        ],
+        "Claudette": [
+            0.9691498,
+            0.96958023
+        ],
+        "Cocaine": [
+            0.96608424,
+            0.98286796
+        ],
+        "Come Together": [
+            0.96926135,
+            0.999707
+        ],
+        "Day Tripper": [
+            0.9653105,
+            0.9791932
+        ],
+        "Don t Let It Bring You Down": [
+            0.9761043,
+            0.992415
+        ],
+        "Downtown Lights": [
+            0.9777958,
+            0.99973553
+        ],
+        "Enjoy The Silence": [
+            0.96672314,
+            0.99987465
+        ],
+        "Faith": [
+            0.9722736,
+            0.977616
+        ],
+        "God Only Knows": [
+            0.9663168,
+            0.97497207
+        ],
+        "Gold Dust Woman": [
+            0.9687679,
+            0.999589
+        ],
+        "Grand Illusion": [
+            0.9658883,
+            0.9771737
+        ],
+        "Happiness is a Warm Gun": [
+            0.97783196,
+            0.9915875
+        ],
+        "Heart Of Gold": [
+            0.9689236,
+            0.9738206
+        ],
+        "Hush": [
+            0.9673842,
+            0.9724358
+        ],
+        "I Can t Get Next To You": [
+            0.970377,
+            0.9968683
+        ],
+        "I Can t Get No Satisfaction": [
+            0.9637117,
+            0.9999279
+        ],
+        "I Don t Like Mondays": [
+            0.967497,
+            0.99997544
+        ],
+        "I Don t Want To Miss A Thing": [
+            0.9747034,
+            0.9816555
+        ],
+        "I Love You": [
+            0.96208507,
+            0.9743554
+        ],
+        "I m Losing You": [
+            0.9707318,
+            0.9708845
+        ],
+        "I m Not In Love": [
+            0.9723602,
+            0.9747035
+        ],
+        "It s Tricky": [
+            0.9685181,
+            0.9994743
+        ],
+        "Lady": [
+            0.9634252,
+            0.9634252
+        ],
+        "Let It Be": [
+            0.9661971,
+            0.969736
+        ],
+        "Little Wing": [
+            0.9777997,
+            0.98290354
+        ],
+        "Lodi": [
+            0.96741235,
+            0.9906825
+        ],
+        "Love Hurts": [
+            0.9722169,
+            0.98087394
+        ],
+        "Maggie s Farm": [
+            0.96942806,
+            0.99226844
+        ],
+        "More Than Words": [
+            0.9707335,
+            0.98479414
+        ],
+        "My Generation": [
+            0.96725756,
+            0.9752987
+        ],
+        "My Heart Will Go On": [
+            0.9681914,
+            0.9993767
+        ],
+        "Never Let Me Down Again": [
+            0.97182506,
+            0.97527546
+        ],
+        "New Age": [
+            0.96193665,
+            0.9999997
+        ],
+        "Night Time Is The Right Time": [
+            0.9697107,
+            0.9772052
+        ],
+        "No Woman No Cry": [
+            0.96194,
+            0.9916762
+        ],
+        "Oh Pretty Woman": [
+            0.9767929,
+            0.98425657
+        ],
+        "Ooby Dooby": [
+            0.96297896,
+            0.96373576
+        ],
+        "Proud Mary": [
+            0.9617896,
+            0.9975941
+        ],
+        "Purple Rain": [
+            0.9625279,
+            0.99975485
+        ],
+        "Rattlesnakes": [
+            0.9709786,
+            0.99736196
+        ],
+        "Real Men": [
+            0.96672153,
+            0.9999129
+        ],
+        "Red Red Wine": [
+            0.9727089,
+            0.98473555
+        ],
+        "River Deep Mountain High": [
+            0.9623864,
+            0.99993354
+        ],
+        "September Gurls": [
+            0.97015744,
+            0.98376364
+        ],
+        "She Came In Through The Bathroom Window": [
+            0.96775275,
+            0.9709889
+        ],
+        "Something So Right": [
+            0.96178865,
+            0.97167975
+        ],
+        "Stone Cold Crazy": [
+            0.9622317,
+            0.9766762
+        ],
+        "Straight From The Heart": [
+            0.9670026,
+            0.96795505
+        ],
+        "Strange Little Girl": [
+            0.9713683,
+            0.98227686
+        ],
+        "Street Fighting Man": [
+            0.9722181,
+            0.9722181
+        ],
+        "Summer of 69": [
+            0.9664049,
+            0.96655136
+        ],
+        "Summertime Blues": [
+            0.96255815,
+            0.96753544
+        ],
+        "Take Me To The River": [
+            0.97801113,
+            0.9893453
+        ],
+        "Take On Me": [
+            0.9679781,
+            0.97378
+        ],
+        "The Boxer": [
+            0.96193755,
+            0.9998047
+        ],
+        "Thin Line Between Love And Hate": [
+            0.97163945,
+            0.99135286
+        ],
+        "Time": [
+            0.9706799,
+            0.98096335
+        ],
+        "Tomorrow Never Knows": [
+            0.9617896,
+            0.99324065
+        ],
+        "Toys In The Attic": [
+            0.9751224,
+            0.9857045
+        ],
+        "Train In Vain": [
+            0.9669839,
+            0.9993369
+        ],
+        "Tush": [
+            0.96279615,
+            0.9731435
+        ],
+        "Waiting In Vain": [
+            0.96297896,
+            0.97958887
+        ],
+        "Walk This Way": [
+            0.9620884,
+            0.99984497
+        ],
+        "Walking After Midnight": [
+            0.9743935,
+            0.97648776
+        ],
+        "We Can Work It Out": [
+            0.9710634,
+            0.99889094
+        ],
+        "What s Going On": [
+            0.96622115,
+            0.9761031
+        ],
+        "White Room": [
+            0.9767062,
+            0.99574816
+        ],
+        "Wish You Were Here": [
+            0.9700443,
+            0.98147637
+        ],
+        "Yesterday": [
+            0.9738821,
+            0.97575784
+        ]
+    }
+}
